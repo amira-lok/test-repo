@@ -1,5 +1,7 @@
 Welcome to Lokalise 👋
 
+Last updated: 2022/02/18
+
 Sign up
 -------
 
