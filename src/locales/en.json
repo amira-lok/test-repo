@@ -1,4 +1,5 @@
 {
 "name": "Name",
-"descr": "Enter your description here"
+"descr": "Enter your description here",
+ "fav-food": ["Beef", "Carrots", "Peas"]
 }
