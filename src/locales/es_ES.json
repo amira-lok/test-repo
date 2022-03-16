@@ -1,0 +1,29 @@
+{
+	"first_key": "Mi hermoso gato es blanco.",
+	"name": "Nombre",
+	"descr": "Ingrese su descripción aquí",
+	"fav-food": [
+		"Carne de res",
+		"Zanahorias",
+		"Guisantes"
+	],
+	"cityLabel": "Ciudad",
+	"countryLabel": "País",
+	"job": "",
+	"skill": "",
+	"employed": "",
+	"foods": [
+		"",
+		"",
+		"",
+		""
+	],
+	"languages": {
+		"perl": "",
+		"python": "",
+		"pascal": ""
+	},
+	"education": "",
+	"tagline": "nueva prueba",
+	"segmentation": "Ahora no está vacío.     "
+}
