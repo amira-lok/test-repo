@@ -1,14 +1,14 @@
 {
-	"first_key": "Mi hermoso gato es blanco.",
-	"name": "Nombre",
-	"descr": "Ingrese su descripción aquí",
+	"first_key": "",
+	"name": "",
+	"descr": "",
 	"fav-food": [
-		"Carne de res",
-		"Zanahorias",
-		"Guisantes"
+		"",
+		"",
+		""
 	],
-	"cityLabel": "Ciudad",
-	"countryLabel": "País",
+	"cityLabel": "",
+	"countryLabel": "",
 	"job": "",
 	"skill": "",
 	"employed": "",
@@ -24,6 +24,6 @@
 		"pascal": ""
 	},
 	"education": "",
-	"tagline": "nueva prueba",
-	"segmentation": "Ahora no está vacío.     "
+	"tagline": "",
+	"segmentation": ""
 }
