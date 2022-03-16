@@ -1,0 +1,29 @@
+{
+	"first_key": "My beautiful cat is white.",
+	"name": "Name",
+	"descr": "Enter your description here",
+	"fav-food": [
+		"Beef",
+		"Carrots",
+		"Peas"
+	],
+	"cityLabel": "City",
+	"countryLabel": "Country",
+	"job": "",
+	"skill": "",
+	"employed": "",
+	"foods": [
+		"",
+		"",
+		"",
+		""
+	],
+	"languages": {
+		"perl": "",
+		"python": "",
+		"pascal": ""
+	},
+	"education": "",
+	"tagline": "New test",
+	"segmentation": "Now it is not empty.     "
+}

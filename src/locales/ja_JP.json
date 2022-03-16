@@ -1,0 +1,29 @@
+{
+	"first_key": "私の美しい猫は白いです。",
+	"name": "名前",
+	"descr": "ここに説明を入力してください",
+	"fav-food": [
+		"牛肉",
+		"人参",
+		"豆"
+	],
+	"cityLabel": "市",
+	"countryLabel": "国",
+	"job": "",
+	"skill": "",
+	"employed": "",
+	"foods": [
+		"",
+		"",
+		"",
+		""
+	],
+	"languages": {
+		"perl": "",
+		"python": "",
+		"pascal": ""
+	},
+	"education": "",
+	"tagline": "新しいテスト",
+	"segmentation": "今では空ではありません。     "
+}
