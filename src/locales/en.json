@@ -1,5 +1,6 @@
 {
 	"cancelBtn" : "Cancel",
 	"accpetBtn" : "OK",
-	"removeBtn" : "Delete"
+	"removeBtn" : "Delete",
+	"quitBtn": "Quit"
 }
