@@ -1,29 +1,5 @@
 {
-	"first_key": "",
-	"name": "",
-	"descr": "",
-	"fav-food": [
-		"",
-		"",
-		""
-	],
-	"cityLabel": "",
-	"countryLabel": "",
-	"job": "",
-	"skill": "",
-	"employed": "",
-	"foods": [
-		"",
-		"",
-		"",
-		""
-	],
-	"languages": {
-		"perl": "",
-		"python": "",
-		"pascal": ""
-	},
-	"education": "",
-	"tagline": "",
-	"segmentation": ""
+	"cancelBtn" : "Cancel",
+	"accpetBtn" : "OK",
+	"removeBtn" : "Delete"
 }
