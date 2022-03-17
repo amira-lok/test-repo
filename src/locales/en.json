@@ -2,5 +2,6 @@
 	"cancelBtn" : "Cancel",
 	"accpetBtn" : "Accept",
 	"removeBtn" : "Delete",
-	"quitBtn"   : "Quit"
+	"quitBtn"   : "Quit",
+	"addBtn"    : "Add"
 }
