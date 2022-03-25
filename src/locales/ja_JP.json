@@ -2,5 +2,24 @@
     "cancelBtn": "キャンセル",
     "accpetBtn": "承認",
     "removeBtn": "消去",
-    "quitBtn": "やめる"
+    "quitBtn": "やめる",
+    "addBtn": "追加",
+    "name": "",
+    "job": "",
+    "skill": "",
+    "employed": "",
+    "foods": [
+        "",
+        "",
+        "",
+        ""
+    ],
+    "languages": {
+        "perl": "",
+        "python": "",
+        "pascal": ""
+    },
+    "education": "",
+    "tagline": "",
+    "segmentation": ""
 }
