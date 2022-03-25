@@ -2,5 +2,24 @@
     "cancelBtn": "Annulla",
     "accpetBtn": "Accettare",
     "removeBtn": "Eliminare",
-    "quitBtn": "Uscire"
+    "quitBtn": "Uscire",
+    "addBtn": "Aggiungere",
+    "name": "",
+    "job": "",
+    "skill": "",
+    "employed": "",
+    "foods": [
+        "",
+        "",
+        "",
+        ""
+    ],
+    "languages": {
+        "perl": "",
+        "python": "",
+        "pascal": ""
+    },
+    "education": "",
+    "tagline": "",
+    "segmentation": ""
 }
