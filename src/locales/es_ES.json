@@ -2,5 +2,25 @@
     "cancelBtn": "Cancelar",
     "accpetBtn": "Aceptar",
     "removeBtn": "Borrar",
-    "quitBtn": "Dejar"
+    "quitBtn": "Dejar",
+    "addBtn": "Agregar",
+    "name": "",
+    "job": "",
+    "skill": "",
+    "employed": "",
+    "foods": [
+        "",
+        "",
+        "",
+        ""
+    ],
+    "languages": {
+        "perl": "",
+        "python": "",
+        "pascal": ""
+    },
+    "education": "",
+    "tagline": "",
+    "segmentation": "",
+    "test_variable": "Escrito en los registros: {{{ error.message }}}. El proceso tomó: {{{ tiempo }}}."
 }

@@ -2,5 +2,25 @@
     "cancelBtn": "Annulla",
     "accpetBtn": "Accettare",
     "removeBtn": "Eliminare",
-    "quitBtn": "Uscire"
+    "quitBtn": "Uscire",
+    "addBtn": "Aggiungere",
+    "name": "",
+    "job": "",
+    "skill": "",
+    "employed": "",
+    "foods": [
+        "",
+        "",
+        "",
+        ""
+    ],
+    "languages": {
+        "perl": "",
+        "python": "",
+        "pascal": ""
+    },
+    "education": "",
+    "tagline": "",
+    "segmentation": "",
+    "test_variable": "Scritto nei log: {{{ error.message }}}. Il processo ha richiesto: {{{ tempo }}}."
 }
