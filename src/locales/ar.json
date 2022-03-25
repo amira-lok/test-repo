@@ -2,5 +2,25 @@
     "cancelBtn": "يلغي",
     "accpetBtn": "قبول",
     "removeBtn": "حذف",
-    "quitBtn": "يترك"
+    "quitBtn": "يترك",
+    "addBtn": "يضيف",
+    "name": "",
+    "job": "",
+    "skill": "",
+    "employed": "",
+    "foods": [
+        "",
+        "",
+        "",
+        ""
+    ],
+    "languages": {
+        "perl": "",
+        "python": "",
+        "pascal": ""
+    },
+    "education": "",
+    "tagline": "",
+    "segmentation": "",
+    "test_variable": "مكتوب على السجلات: {{error.message}}}. استغرقت العملية: {{{time}}}."
 }
