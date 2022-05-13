@@ -1,0 +1,3091 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-10 13:31+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: biller/address/admin.py:26 biller/address/admin.py:48
+msgid "At least one address for company should be main"
+msgstr ""
+
+#: biller/address/admin.py:90
+msgid "Company has no main addresses left"
+msgstr ""
+
+#: biller/address/models.py:19
+msgid "Street"
+msgstr ""
+
+#: biller/address/models.py:22
+msgid "House number"
+msgstr ""
+
+#: biller/address/models.py:29
+msgid "House number suffix"
+msgstr ""
+
+#: biller/address/models.py:36
+msgid "Street Address 1"
+msgstr ""
+
+#: biller/address/models.py:39
+msgid "street address includes street name, house number, house suffix, etc"
+msgstr ""
+
+#: biller/address/models.py:43
+msgid "Street Address 2"
+msgstr ""
+
+#: biller/address/models.py:49
+msgid ""
+"street address 2 includes additional address info like apartment number, "
+"suite, etc"
+msgstr ""
+
+#: biller/address/models.py:53
+msgid "City"
+msgstr ""
+
+#: biller/address/models.py:54
+msgid "Region"
+msgstr ""
+
+#: biller/address/models.py:55
+msgid "Postal/Zip-code"
+msgstr ""
+
+#: biller/address/models.py:169 biller/buyer/models.py:12
+#: biller/buyer/models.py:30 biller/company/models.py:22
+#: biller/company/models.py:101 biller/order/models.py:266
+#: biller/order_request/models.py:67 biller/seller/models.py:31
+#: biller/seller/models.py:50 biller/seller/models.py:217
+#: biller/sendgrid_monitoring/models.py:9
+msgid "UUID"
+msgstr ""
+
+#: biller/address/models.py:174 biller/buyer/models.py:16
+#: biller/company/models.py:44 biller/company/models.py:113
+#: biller/order_request/admin.py:151 biller/seller/models.py:35
+msgid "Company"
+msgstr ""
+
+#: biller/address/models.py:176
+msgid "Is billing address?"
+msgstr ""
+
+#: biller/address/models.py:177
+msgid "Is shipping address?"
+msgstr ""
+
+#: biller/address/models.py:178
+msgid "Is main address?"
+msgstr ""
+
+#: biller/address/models.py:228
+msgid "Company address"
+msgstr ""
+
+#: biller/address/models.py:229
+msgid "Company addresses"
+msgstr ""
+
+#: biller/bank_account/models.py:16 biller/bank_account/models.py:45
+#: biller/bank_account/models.py:67 biller/buyer/models.py:46
+#: biller/fees/models.py:39 biller/invoice/models.py:106
+#: biller/invoice/models.py:284 biller/invoice/models.py:781
+#: biller/invoice/models.py:952 biller/multi_country/models.py:20
+#: biller/order/models.py:370 biller/order/models.py:800
+#: biller/order/models.py:867 biller/order_request/models.py:264
+#: biller/payment/models.py:21 biller/seller/models.py:38
+#: biller/seller/models.py:153 biller/seller/models.py:232
+msgid "Created at"
+msgstr ""
+
+#: biller/bank_account/models.py:17 biller/bank_account/models.py:46
+#: biller/bank_account/models.py:68 biller/buyer/models.py:47
+#: biller/fees/models.py:40 biller/invoice/models.py:107
+#: biller/invoice/models.py:285 biller/invoice/models.py:953
+#: biller/multi_country/models.py:21 biller/order/models.py:371
+#: biller/order/models.py:866 biller/order_request/models.py:265
+#: biller/payment/models.py:22 biller/seller/models.py:39
+#: biller/seller/models.py:154 biller/seller/models.py:233
+#: biller/sendgrid_monitoring/models.py:10
+msgid "Updated at"
+msgstr ""
+
+#: biller/bank_account/models.py:40 biller/bank_account/models.py:60
+#: biller/company/models.py:105 biller/fees/models.py:21
+#: biller/invoice/models.py:55 biller/invoice/models.py:267
+#: biller/invoice/models.py:942 biller/multi_country/models.py:13
+#: biller/order/models.py:318 biller/order/models.py:701
+#: biller/order/models.py:856 biller/order_request/models.py:112
+#: biller/payment/models.py:15
+msgid "Currency"
+msgstr ""
+
+#: biller/bank_account/models.py:44
+msgid "Is reconciliation account?"
+msgstr ""
+
+#: biller/bank_account/models.py:50
+#, fuzzy
+msgid "Master account"
+msgstr "Total order amount"
+
+#: biller/bank_account/models.py:51
+#, fuzzy
+msgid "Master accounts"
+msgstr "Total order amount"
+
+#: biller/bank_account/templates/virtual_account/admin/change_list_virtual_account.html:31
+msgid "Home"
+msgstr ""
+
+#: biller/bank_account/templates/virtual_account/admin/change_list_virtual_account.html:45
+msgid "Import CSV"
+msgstr ""
+
+#: biller/bank_account/templates/virtual_account/admin/change_list_virtual_account.html:54
+msgid "Please correct the error below."
+msgstr ""
+
+#: biller/bank_account/templates/virtual_account/admin/change_list_virtual_account.html:54
+msgid "Please correct the errors below."
+msgstr ""
+
+#: biller/bank_account/templates/virtual_account/admin/change_list_virtual_account.html:79
+msgid "Filter"
+msgstr ""
+
+#: biller/bank_account/templates/virtual_account/admin/change_list_virtual_account.html:81
+msgid "Clear all filters"
+msgstr ""
+
+#: biller/bank_account/templates/virtual_account/admin/csv_form.html:9
+msgid "Upload CSV"
+msgstr ""
+
+#: biller/buyer/models.py:20 biller/buyer/models.py:34
+msgid "Buyer"
+msgstr ""
+
+#: biller/buyer/models.py:21
+msgid "Buyers"
+msgstr ""
+
+#: biller/buyer/models.py:36 biller/order_request/models.py:123
+msgid "First name"
+msgstr ""
+
+#: biller/buyer/models.py:37 biller/order_request/models.py:124
+msgid "Last name"
+msgstr ""
+
+#: biller/buyer/models.py:39 biller/order_request/models.py:126
+msgid "Phone number"
+msgstr ""
+
+#: biller/buyer/models.py:45 biller/order_request/models.py:125
+msgid "Email"
+msgstr ""
+
+#: biller/buyer/models.py:50 biller/order/admin.py:142
+#: biller/order/models.py:286 biller/order_request/admin.py:140
+msgid "Representative"
+msgstr ""
+
+#: biller/buyer/models.py:51
+msgid "Representatives"
+msgstr ""
+
+#: biller/company/models.py:23
+msgid "Name"
+msgstr ""
+
+#: biller/company/models.py:25
+msgid "Company registration number (at chamber of commerce)"
+msgstr ""
+
+#: biller/company/models.py:29 biller/order_request/models.py:98
+msgid "Company VAT number"
+msgstr ""
+
+#: biller/company/models.py:34 biller/order_request/models.py:106
+msgid "Company website"
+msgstr ""
+
+#: biller/company/models.py:36
+#: biller/decision_engine/models/credit_report.py:65
+msgid "CreditsafeUID"
+msgstr ""
+
+#: biller/company/models.py:45
+msgid "Companies"
+msgstr ""
+
+#: biller/company/models.py:58
+#, python-format
+msgid "Valid registration number is required for %(country)s"
+msgstr ""
+
+#: biller/company/models.py:69
+#, python-format
+msgid ""
+"The registration number '%(registration_number)s' is not valid for "
+"%(country)s"
+msgstr ""
+"The registration number '%(registration_number)s' is not valid for "
+"%(country)s"
+
+#: biller/company/models.py:102
+msgid "Account number"
+msgstr ""
+
+#: biller/company/models.py:103
+msgid "Account name"
+msgstr ""
+
+#: biller/company/models.py:109
+msgid "JSON field"
+msgstr ""
+
+#: biller/company/models.py:122
+msgid "Company account"
+msgstr ""
+
+#: biller/company/models.py:123
+msgid "Company accounts"
+msgstr ""
+
+#: biller/constants.py:4 biller/settings2/components/all/010_base.py:98
+msgid "English"
+msgstr ""
+
+#: biller/constants.py:5 biller/settings2/components/all/010_base.py:96
+msgid "Dutch"
+msgstr ""
+
+#: biller/constants.py:6 biller/settings2/components/all/010_base.py:100
+msgid "Danish"
+msgstr ""
+
+#: biller/constants.py:7 biller/settings2/components/all/010_base.py:101
+msgid "French"
+msgstr ""
+
+#: biller/constants.py:8 biller/settings2/components/all/010_base.py:103
+msgid "German"
+msgstr ""
+
+#: biller/constants.py:9
+msgid "English (United Kingdom)"
+msgstr ""
+
+#: biller/constants.py:10 biller/settings2/components/all/010_base.py:97
+msgid "Flemish"
+msgstr ""
+
+#: biller/constants.py:11
+msgid "French (Belgium)"
+msgstr ""
+
+#: biller/decision_engine/admin.py:50
+#: biller/decision_engine/models/acceptance_variables.py:45
+msgid "Variables"
+msgstr ""
+
+#: biller/decision_engine/admin.py:106
+#: biller/decision_engine/models/credit_report.py:66
+msgid "Report data"
+msgstr ""
+
+#: biller/decision_engine/admin.py:152 biller/decision_engine/admin.py:300
+#: biller/decision_engine/models/decisions.py:11
+msgid "Limit Rules"
+msgstr ""
+
+#: biller/decision_engine/admin.py:159 biller/decision_engine/admin.py:307
+#: biller/decision_engine/models/decisions.py:12
+msgid "Score Rules"
+msgstr ""
+
+#: biller/decision_engine/admin.py:166 biller/decision_engine/admin.py:314
+#: biller/decision_engine/models/decisions.py:20 biller/invoice/admin.py:331
+#: biller/invoice/models.py:384
+msgid "Notes"
+msgstr ""
+
+#: biller/decision_engine/admin.py:228
+msgid "Applied Decision Rules"
+msgstr ""
+
+#: biller/decision_engine/admin.py:235
+msgid "IP Details"
+msgstr ""
+
+#: biller/decision_engine/admin.py:242
+msgid "Phone Details"
+msgstr ""
+
+#: biller/decision_engine/admin.py:249
+msgid "Device Details"
+msgstr ""
+
+#: biller/decision_engine/models/acceptance_variables.py:17
+#: biller/decision_engine/models/decisions.py:36 biller/invoice/models.py:263
+#: biller/order/models.py:395 biller/order/models.py:697
+#: biller/order/models.py:790 biller/order/models.py:835
+msgid "Order"
+msgstr "Order"
+
+#: biller/decision_engine/models/acceptance_variables.py:26
+#: biller/order_request/models.py:347
+msgid "Order request"
+msgstr "Order request"
+
+#: biller/decision_engine/models/acceptance_variables.py:32
+#: biller/decision_engine/models/decisions.py:69
+#: biller/decision_engine/models/decisions.py:99
+msgid "Final verdict"
+msgstr ""
+
+#: biller/decision_engine/models/acceptance_variables.py:38
+msgid "Feedback label"
+msgstr ""
+
+#: biller/decision_engine/models/acceptance_variables.py:55
+#: biller/decision_engine/models/acceptance_variables.py:56
+#: biller/decision_engine/models/decisions.py:65
+msgid "Acceptance Variables"
+msgstr ""
+
+#: biller/decision_engine/models/credit_report.py:78
+#: biller/decision_engine/models/decisions.py:56
+msgid "Credit Report"
+msgstr ""
+
+#: biller/decision_engine/models/credit_report.py:79
+msgid "Credit Reports"
+msgstr ""
+
+#: biller/decision_engine/models/decisions.py:14
+msgid "Code Version"
+msgstr ""
+
+#: biller/decision_engine/models/decisions.py:45
+#: biller/decision_engine/models/decisions.py:86
+msgid "Order Request"
+msgstr ""
+
+#: biller/decision_engine/models/decisions.py:75
+msgid "Credit Decision"
+msgstr ""
+
+#: biller/decision_engine/models/decisions.py:76
+msgid "Credit Decisions"
+msgstr ""
+
+#: biller/decision_engine/models/decisions.py:95
+#: biller/decision_engine/models/fraud_report.py:47
+msgid "Fraud Report"
+msgstr ""
+
+#: biller/decision_engine/models/decisions.py:105
+msgid "Fraud Decision"
+msgstr ""
+
+#: biller/decision_engine/models/decisions.py:106
+msgid "Fraud Decisions"
+msgstr ""
+
+#: biller/decision_engine/models/fraud_report.py:13
+msgid "SEON_uid"
+msgstr ""
+
+#: biller/decision_engine/models/fraud_report.py:14
+msgid "SEON version"
+msgstr ""
+
+#: biller/decision_engine/models/fraud_report.py:23
+msgid "Transaction state at creation"
+msgstr ""
+
+#: biller/decision_engine/models/fraud_report.py:29
+msgid "Fraud Score"
+msgstr ""
+
+#: biller/decision_engine/models/fraud_report.py:31
+msgid "Applied decision rules"
+msgstr ""
+
+#: biller/decision_engine/models/fraud_report.py:33
+msgid "IP details"
+msgstr ""
+
+#: biller/decision_engine/models/fraud_report.py:34
+msgid "Email details"
+msgstr ""
+
+#: biller/decision_engine/models/fraud_report.py:35
+msgid "Phone details"
+msgstr ""
+
+#: biller/decision_engine/models/fraud_report.py:36
+msgid "Device details"
+msgstr ""
+
+#: biller/decision_engine/models/fraud_report.py:39
+msgid "Calculation time in ms"
+msgstr ""
+
+#: biller/decision_engine/models/fraud_report.py:48
+msgid "Fraud Reports"
+msgstr ""
+
+#: biller/fees/models.py:25 biller/seller/models.py:99
+msgid "Fixed fee"
+msgstr ""
+
+#: biller/fees/models.py:35
+msgid "Interest percentage"
+msgstr ""
+
+#: biller/fees/models.py:43
+msgid "Late fee condition"
+msgstr ""
+
+#: biller/fees/models.py:44
+msgid "Late fee conditions"
+msgstr ""
+
+#: biller/invoice/admin.py:138
+#, python-brace-format
+msgid "{num_records} records have been marked as paid"
+msgstr ""
+
+#: biller/invoice/admin.py:140 biller/invoice/admin.py:157
+msgid "No eligible records to mark as paid"
+msgstr ""
+
+#: biller/invoice/admin.py:155
+#, python-brace-format
+msgid "{num_records} records have been marked as unpaid"
+msgstr ""
+
+#: biller/invoice/admin.py:182
+#, python-brace-format
+msgid "{num_records} records have been set on-hold"
+msgstr ""
+
+#: biller/invoice/admin.py:184
+msgid "No eligible records to set on-hold"
+msgstr ""
+
+#: biller/invoice/admin.py:207
+#, python-brace-format
+msgid "{num_records} records have been unset on-hold"
+msgstr ""
+
+#: biller/invoice/admin.py:209
+msgid "No eligible records to unset on-hold"
+msgstr ""
+
+#: biller/invoice/admin.py:313
+msgid "Dunning"
+msgstr ""
+
+#: biller/invoice/admin.py:337
+msgid "Files"
+msgstr ""
+
+#: biller/invoice/admin.py:345
+msgid "Total order amount in currency units"
+msgstr ""
+
+#: biller/invoice/admin.py:449
+#, python-brace-format
+msgid "Successfully marked invoice {obj.uuid} as paid."
+msgstr ""
+
+#: biller/invoice/admin.py:452
+msgid "Failed to mark invoice as paid."
+msgstr ""
+
+#: biller/invoice/admin.py:464
+#, python-brace-format
+msgid "Successfully marked invoice {obj.uuid} as unpaid."
+msgstr ""
+
+#: biller/invoice/admin.py:467
+msgid "Failed to mark invoice as unpaid."
+msgstr ""
+
+#: biller/invoice/admin.py:485
+#, python-brace-format
+msgid "Successfully marked invoice {obj.uuid} as write-off. "
+msgstr ""
+
+#: biller/invoice/admin.py:491
+msgid "Failed to mark invoice as write-off."
+msgstr ""
+
+#: biller/invoice/admin.py:506
+#, python-brace-format
+msgid "Successfully set invoice {obj.uuid} on-hold."
+msgstr ""
+
+#: biller/invoice/admin.py:509
+msgid "Failed to set invoice on-hold."
+msgstr ""
+
+#: biller/invoice/admin.py:519
+#, python-brace-format
+msgid "Successfully unset invoice {obj.uuid} on-hold."
+msgstr ""
+
+#: biller/invoice/admin.py:522
+msgid "Failed to unset invoice on-hold."
+msgstr ""
+
+#: biller/invoice/admin.py:543
+#, python-brace-format
+msgid "Successfully marked invoice {obj.uuid} as dispute write-off."
+msgstr ""
+
+#: biller/invoice/admin.py:547
+msgid "Failed to mark invoice as dispute write-off."
+msgstr ""
+
+#: biller/invoice/admin.py:564
+#, python-brace-format
+msgid "Successfully marked invoice {obj.uuid} as dispute refund."
+msgstr ""
+
+#: biller/invoice/admin.py:568
+msgid "Failed to mark invoice as dispute refund."
+msgstr ""
+
+#: biller/invoice/admin.py:581
+#, python-brace-format
+msgid "Successfully marked invoice {obj.uuid} as settled."
+msgstr ""
+
+#: biller/invoice/admin.py:586
+#, python-brace-format
+msgid "Invoice {obj.uuid} was marked settled already."
+msgstr ""
+
+#: biller/invoice/admin.py:590
+msgid "Failed to mark invoice as settled."
+msgstr ""
+
+#: biller/invoice/admin.py:607
+#, python-brace-format
+msgid "Successfully marked invoice {obj.uuid} as unsettled."
+msgstr ""
+
+#: biller/invoice/admin.py:612
+#, python-brace-format
+msgid "Invoice {obj.uuid} was marked unsettled already."
+msgstr ""
+
+#: biller/invoice/admin.py:616
+msgid "Failed to mark invoice as unsettled."
+msgstr ""
+
+#: biller/invoice/admin.py:820 biller/invoice/models.py:401
+#: biller/invoice/viewsets.py:48 biller/invoice/viewsets.py:53
+#: biller/invoice/viewsets.py:60 biller/invoice/viewsets.py:131
+msgid "Invoices"
+msgstr "Invoices"
+
+#: biller/invoice/admin.py:822
+msgid "Time details"
+msgstr ""
+
+#: biller/invoice/admin.py:892
+msgid "Successfully generated settlement reports."
+msgstr ""
+
+#: biller/invoice/admin.py:905
+#, python-brace-format
+msgid "Successfully marked settlement {settlement.id} as sent."
+msgstr ""
+
+#: biller/invoice/admin.py:909
+msgid "Failed to mark settlement as sent."
+msgstr ""
+
+#: biller/invoice/admin.py:934
+#, python-brace-format
+msgid "Successfully marked {marked_invoices} invoices as settled."
+msgstr ""
+
+#: biller/invoice/admin.py:939
+#, python-brace-format
+msgid "Successfully marked {marked_refunds} refunds as settled."
+msgstr ""
+
+#: biller/invoice/admin.py:947
+#, python-brace-format
+msgid "Successfully marked settlement {settlement.id} as paid."
+msgstr ""
+
+#: biller/invoice/admin.py:951
+msgid "Failed to mark settlement as paid."
+msgstr ""
+
+#: biller/invoice/models.py:48 biller/order/models.py:281
+#: biller/seller/models.py:159 biller/seller/models.py:228
+msgid "Seller profile"
+msgstr ""
+
+#: biller/invoice/models.py:51
+#, fuzzy
+msgid "Payment reference"
+msgstr "Payment reference"
+
+#: biller/invoice/models.py:53
+msgid "With VAT"
+msgstr ""
+
+#: biller/invoice/models.py:68
+msgid "Settlement Amount"
+msgstr ""
+
+#: biller/invoice/models.py:69
+msgid "Sale Amount"
+msgstr ""
+
+#: biller/invoice/models.py:70
+msgid "Variable Fee"
+msgstr ""
+
+#: biller/invoice/models.py:71
+msgid "Fixed Fee"
+msgstr ""
+
+#: biller/invoice/models.py:72
+msgid "Return Amount"
+msgstr ""
+
+#: biller/invoice/models.py:73
+msgid "Release Amount"
+msgstr ""
+
+#: biller/invoice/models.py:74
+msgid "Commission Amount"
+msgstr ""
+
+#: biller/invoice/models.py:75
+msgid "Repay Amount"
+msgstr ""
+
+#: biller/invoice/models.py:76
+msgid "Tax Amount"
+msgstr ""
+
+#: biller/invoice/models.py:78
+msgid "Correction Amount"
+msgstr ""
+
+#: biller/invoice/models.py:80
+msgid "Positive - seller owes us, negative - we owe seller"
+msgstr ""
+
+#: biller/invoice/models.py:87
+msgid "Settlement Status"
+msgstr ""
+
+#: biller/invoice/models.py:96
+msgid "File PDF"
+msgstr ""
+
+#: biller/invoice/models.py:101
+msgid "File CSV"
+msgstr ""
+
+#: biller/invoice/models.py:198
+#, fuzzy
+#| msgctxt "payment_request"
+#| msgid "Payment details"
+msgid "Payment Method"
+msgstr "Payment details"
+
+#: biller/invoice/models.py:203
+#, fuzzy
+#| msgctxt "settlement"
+#| msgid "Payment Reference"
+msgid "Payment Reference"
+msgstr "Payment reference"
+
+#: biller/invoice/models.py:209
+#, fuzzy
+#| msgctxt "payment_request"
+#| msgid "Payment details"
+msgid "Payment Details"
+msgstr "Payment details"
+
+#: biller/invoice/models.py:211
+#, fuzzy
+#| msgctxt "payment_request"
+#| msgid "Payment details"
+msgid "Payment Status"
+msgstr "Payment details"
+
+#: biller/invoice/models.py:216
+msgid "Created At"
+msgstr ""
+
+#: biller/invoice/models.py:217
+msgid "Updated At"
+msgstr ""
+
+#: biller/invoice/models.py:235
+msgid "Internal invoice ID"
+msgstr ""
+
+#: biller/invoice/models.py:243
+msgid "Unique invoice ref (for payments)"
+msgstr ""
+
+#: biller/invoice/models.py:249
+msgid "External (seller) invoice ID"
+msgstr ""
+
+#: biller/invoice/models.py:256
+msgid "Link to external (seller) invoice"
+msgstr ""
+
+#: biller/invoice/models.py:276
+#, fuzzy
+msgid "Total invoice amount"
+msgstr "Total order amount"
+
+#: biller/invoice/models.py:278
+msgid "Payment status"
+msgstr ""
+
+#: biller/invoice/models.py:283
+msgid "Closed at"
+msgstr ""
+
+#: biller/invoice/models.py:289 biller/order/models.py:325
+#: biller/order/models.py:871
+msgid "Discount description"
+msgstr ""
+
+#: biller/invoice/models.py:292 biller/order/models.py:328
+#: biller/order/models.py:874
+msgid "Discount amount excl. tax"
+msgstr ""
+
+#: biller/invoice/models.py:298 biller/order/models.py:334
+#: biller/order/models.py:880
+msgid "Discount amount tax"
+msgstr ""
+
+#: biller/invoice/models.py:304 biller/order/models.py:340
+#: biller/order/models.py:886
+msgid "Discount amount incl. tax"
+msgstr ""
+
+#: biller/invoice/models.py:311
+msgid "On hold?"
+msgstr ""
+
+#: biller/invoice/models.py:312
+msgid "On hold since"
+msgstr ""
+
+#: biller/invoice/models.py:324
+msgid "Invoice due sent?"
+msgstr ""
+
+#: biller/invoice/models.py:329
+msgid "Invoice due sent at"
+msgstr ""
+
+#: biller/invoice/models.py:336
+msgid "Free reminder sent?"
+msgstr ""
+
+#: biller/invoice/models.py:341
+msgid "Free reminder sent at"
+msgstr ""
+
+#: biller/invoice/models.py:348
+msgid "First reminder sent?"
+msgstr ""
+
+#: biller/invoice/models.py:353
+msgid "First reminder sent at"
+msgstr ""
+
+#: biller/invoice/models.py:360
+msgid "Second reminder sent?"
+msgstr ""
+
+#: biller/invoice/models.py:365
+msgid "Second reminder sent at"
+msgstr ""
+
+#: biller/invoice/models.py:372
+msgid "Debt collection handover sent?"
+msgstr ""
+
+#: biller/invoice/models.py:377
+msgid "Debt collection handover sent at"
+msgstr ""
+
+#: biller/invoice/models.py:391
+msgid "File"
+msgstr ""
+
+#: biller/invoice/models.py:397 biller/order/models.py:895
+msgid "Settled?"
+msgstr ""
+
+#: biller/invoice/models.py:400 biller/invoice/models.py:771
+#: biller/invoice/models.py:806 biller/invoice/models.py:939
+#: biller/payment/models.py:38
+msgid "Invoice"
+msgstr "Invoice"
+
+#: biller/invoice/models.py:774 biller/order/models.py:793
+msgid "Event"
+msgstr ""
+
+#: biller/invoice/models.py:784
+msgid "Invoice event"
+msgstr ""
+
+#: biller/invoice/models.py:785
+msgid "Invoice events"
+msgstr ""
+
+#: biller/invoice/models.py:947 biller/order/models.py:699
+msgid "Quantity"
+msgstr ""
+
+#: biller/invoice/models.py:949 biller/order/models.py:861
+#: biller/payment/models.py:20
+#, fuzzy
+msgid "Amount"
+msgstr "Amount"
+
+#: biller/invoice/models.py:950
+msgid "Is paid?"
+msgstr ""
+
+#: biller/invoice/models.py:951
+msgid "Paid at"
+msgstr ""
+
+#: biller/invoice/models.py:977
+msgid "Automatically matched?"
+msgstr ""
+
+#: biller/invoice/models.py:978
+msgid "Manually matched?"
+msgstr ""
+
+#: biller/invoice/models.py:984 biller/invoice/models.py:985
+msgid "Transaction Variables"
+msgstr ""
+
+#: biller/invoice/notifications.py:26 biller/invoice/notifications.py:53
+#, python-format
+msgid "Payment reminder for your purchase from %(seller_brand)s"
+msgstr "Payment reminder for your purchase from %(seller_brand)s with Biller"
+
+#: biller/invoice/notifications.py:81
+#, python-format
+msgid ""
+"Action required: 2nd payment reminder for your order at %(seller_brand)s"
+msgstr ""
+"Action required: 2nd payment reminder for your order at %(seller_brand)s"
+
+#: biller/invoice/notifications.py:109
+#, python-format
+msgid ""
+"Action required: Last payment reminder for your order at %(seller_brand)s"
+msgstr ""
+"Action required: Last payment reminder for your order at %(seller_brand)s"
+
+#: biller/invoice/notifications.py:138
+#, python-format
+msgid ""
+"Action required: Pay now to avoid contact from a collection agency for your "
+"order at %(seller_brand)s"
+msgstr ""
+"Action required: Pay now to avoid contact from a collection agency for your "
+"order at %(seller_brand)s"
+
+#: biller/invoice/serializers.py:181 biller/invoice/serializers.py:182
+#: biller/invoice/serializers.py:183 biller/order_request/serializers.py:59
+#: biller/order_request/serializers.py:60
+#: biller/order_request/serializers.py:61
+msgid "Request payload example"
+msgstr ""
+
+#: biller/invoice/serializers.py:189 biller/invoice/serializers.py:190
+#: biller/invoice/serializers.py:191 biller/order/serializers/cancel.py:14
+#: biller/order/serializers/cancel.py:21 biller/order/serializers/cancel.py:26
+#: biller/order/serializers/retrieve.py:30
+#: biller/order/serializers/retrieve.py:31
+#: biller/order/serializers/retrieve.py:32
+#: biller/order/serializers/retrieve.py:39
+#: biller/order/serializers/retrieve.py:40
+#: biller/order/serializers/retrieve.py:41
+#: biller/order/serializers/retrieve.py:48
+#: biller/order/serializers/retrieve.py:49
+#: biller/order/serializers/retrieve.py:50
+#: biller/order_request/serializers.py:68
+#: biller/order_request/serializers.py:69
+#: biller/order_request/serializers.py:70
+msgid "Response example"
+msgstr ""
+
+#: biller/invoice/serializers.py:211 biller/order/serializers/cancel.py:53
+#: biller/order/serializers/capture.py:55
+#: biller/order/serializers/refund.py:120
+#: biller/order/serializers/refundable_invoices.py:36
+#: biller/order/serializers/retrieve.py:90
+#: biller/order/serializers/retrieve.py:113
+#: biller/order/serializers/retrieve.py:379
+msgid "Error details."
+msgstr ""
+
+#: biller/invoice/templates/herald/html/debt_collection_handover.html:30
+#, python-format
+msgctxt "common"
+msgid ""
+"If you have received this email even though you have already made the "
+"payment, please contact us immediately on <a target=\"_blank\" style="
+"\"color: #47A09A;\" href=\"mailto:%(biller_customer_support_email)s\"> "
+"%(biller_customer_support_email)s </a> or call <a target=\"_blank\" style="
+"\"color: #47A09A;\" href=\"tel:%(biller_phone_number)s\">"
+"%(biller_phone_number)s</a>."
+msgstr ""
+
+#: biller/invoice/templates/herald/html_common/amount_due_heading.html:13
+msgctxt "common"
+msgid "Outstanding balance"
+msgstr "Outstanding balance"
+
+#: biller/invoice/templates/herald/html_common/amount_due_table.html:17
+msgctxt "common"
+msgid "Invoice amount incl. tax"
+msgstr "Invoice amount incl. VAT"
+
+#: biller/invoice/templates/herald/html_common/amount_due_table.html:32
+msgctxt "common"
+msgid "Credited"
+msgstr "Credited"
+
+#: biller/invoice/templates/herald/html_common/amount_due_table.html:48
+msgctxt "common"
+msgid "Total amount to pay"
+msgstr "Total amount to pay"
+
+#: biller/invoice/templates/herald/html_common/bank_transfer_details_heading.html:13
+msgctxt "common"
+msgid "Bank transfer details"
+msgstr "Bank transfer details"
+
+#: biller/invoice/templates/herald/html_common/bank_transfer_details_table.html:16
+#, fuzzy
+msgctxt "common"
+msgid "Beneficiary"
+msgstr "Beneficiary"
+
+#: biller/invoice/templates/herald/html_common/bank_transfer_details_table.html:49
+#, fuzzy
+msgctxt "common"
+msgid "Payment reference"
+msgstr "Payment reference"
+
+#: biller/invoice/templates/herald/html_common/bank_transfer_details_table.html:76
+#: biller/invoice/templates/invoice/html_invoice.html:367
+msgctxt "common"
+msgid "Please use the description field for the payment reference."
+msgstr "Please use the description field for the payment reference."
+
+#: biller/invoice/templates/herald/html_common/disregard_case_paid.html:13
+msgctxt "common"
+msgid ""
+"Payments may take up to 3 days to be processed. If you have already made a "
+"payment, please disregard this email."
+msgstr ""
+"Payments may take up to 3 days to be processed. If you have already made a "
+"payment, please disregard this email."
+
+#: biller/invoice/templates/herald/html_common/intro_paragraph/debt_collection_handover.html:16
+#, fuzzy, python-format
+msgid ""
+"Please note that this is the last reminder to pay for your purchase at "
+"%(seller_name)s with order number %(order_uid)s."
+msgstr ""
+"Please note that this is the last reminder to pay for your purchase at "
+"%(seller_name)s with order number %(order_uid)s."
+
+#: biller/invoice/templates/herald/html_common/intro_paragraph/debt_collection_handover.html:20
+#, fuzzy, python-format
+msgctxt "common"
+msgid ""
+"If payment is not received within %(ultimatum_window)s days of this "
+"notification, the debt will be handed over to %(agency)s debt collection "
+"agency. An additional debt collection fee of %(fee_percentage)s of the total "
+"amount will apply, with a minimum of %(minimum_fee)s."
+msgstr ""
+"If payment is not received within %(ultimatum_window)s hours of this "
+"notification, the debt will be handed over to %(agency)s debt collection "
+"agency. An additional debt collection fee of %(fee_percentage)s of the total "
+"amount will apply, with a minimum of %(minimum_fee)s"
+
+#: biller/invoice/templates/herald/html_common/intro_paragraph/free_reminder.html:17
+#, fuzzy, python-format
+msgctxt "common"
+msgid ""
+"To date we have not received payment for you purchase at %(seller_name)s "
+"with Biller."
+msgstr ""
+"To date we have not received payment for your purchase at %(seller_name)s "
+"with Biller."
+
+#: biller/invoice/templates/herald/html_common/intro_paragraph/free_reminder.html:20
+#, python-format
+msgctxt "common"
+msgid "Please complete the payment for this purchase before %(new_due_date)s."
+msgstr "Please complete the payment for this purchase before %(new_due_date)s."
+
+#: biller/invoice/templates/herald/html_common/intro_paragraph/free_reminder.html:23
+msgctxt "common"
+msgid ""
+"In accordance with the agreed payment terms and conditions, an "
+"administration fee of min 5 EUR applies to any outstanding balance if the "
+"payment is not received in time."
+msgstr ""
+"In accordance with the agreed payment terms and conditions, an "
+"administration fee of min 5 EUR applies to any outstanding balance if the "
+"payment is not received in time."
+
+#: biller/invoice/templates/herald/html_common/intro_paragraph/reminder_1.html:17
+#, fuzzy, python-format
+msgctxt "common"
+msgid ""
+"It appears that you have not yet paid for your order from %(seller_name)s "
+"with Biller. Since the new payment term has expired, we have added "
+"administration fees to the outstanding balance."
+msgstr ""
+"It appears that you have not yet paid for your order from %(seller_name)s "
+"with Biller. Since the new payment term has expired, we have added "
+"administration fees to the outstanding balance."
+
+#: biller/invoice/templates/herald/html_common/intro_paragraph/reminder_1.html:21
+#, python-format
+msgctxt "common"
+msgid ""
+"Please be aware that any further delay in payment after %(new_due_date)s "
+"will result in an extra administration fee of min 5 EUR added to your "
+"outstanding balance."
+msgstr ""
+"Please be aware that any further delay in payment after %(new_due_date)s "
+"will result in an extra administration fee of min 5 EUR added to your "
+"outstanding balance."
+
+#: biller/invoice/templates/herald/html_common/intro_paragraph/reminder_2.html:17
+#, fuzzy, python-format
+msgctxt "common"
+msgid ""
+"It appears that you have not yet paid for your order from %(seller_name)s "
+"with Biller. Since the new payment term has expired, we have added "
+"additional administration fees to the outstanding balance."
+msgstr ""
+"It appears that you have not yet paid for your order from %(seller_name)s "
+"with Biller. Since the new payment term has expired, we have added "
+"additional administration fees to the outstanding balance."
+
+#: biller/invoice/templates/herald/html_common/intro_paragraph/reminder_2.html:22
+#, python-format
+msgctxt "common"
+msgid ""
+"Please note that if we do not receive your payment before %(new_due_date)s, "
+"the original invoice will be handed over to a debt collection agency."
+msgstr ""
+"Please note that if we do not receive your payment before %(new_due_date)s, "
+"the original invoice will be handed over to a debt collection agency."
+
+#: biller/invoice/templates/herald/html_common/order_details.html:12
+#: biller/invoice/templates/herald/html_common/order_details.html:37
+#: biller/invoice/templates/invoice/html_invoice.html:219
+#: biller/invoice/templates/invoice/html_invoice.html:242
+msgctxt "payment_request"
+msgid "Order number"
+msgstr "Order number"
+
+#: biller/invoice/templates/herald/html_common/order_details.html:15
+#, fuzzy
+msgctxt "payment_request"
+msgid "Seller invoice number"
+msgstr "Seller invoice number"
+
+#: biller/invoice/templates/herald/html_common/order_details.html:22
+#: biller/invoice/templates/herald/html_common/order_details.html:43
+#: biller/invoice/templates/invoice/html_invoice.html:229
+#: biller/invoice/templates/invoice/html_invoice.html:248
+msgctxt "payment_request"
+msgid "Order date"
+msgstr "Order date"
+
+#: biller/invoice/templates/herald/html_common/order_details.html:24
+#: biller/invoice/templates/herald/html_common/order_details.html:39
+#: biller/invoice/templates/invoice/html_invoice.html:231
+#: biller/invoice/templates/invoice/html_invoice.html:244
+#, fuzzy
+msgctxt "payment_request"
+msgid "Invoice date"
+msgstr "Invoice date"
+
+#: biller/invoice/templates/herald/html_common/order_details.html:30
+#: biller/invoice/templates/herald/html_common/order_details.html:45
+#: biller/invoice/templates/invoice/html_invoice.html:237
+#: biller/invoice/templates/invoice/html_invoice.html:250
+#, fuzzy
+msgctxt "payment_request"
+msgid "Due date"
+msgstr "Due date"
+
+#: biller/invoice/templates/invoice/admin/admin_change_invoice.html:13
+msgid "HTML invoice"
+msgstr ""
+
+#: biller/invoice/templates/invoice/admin/admin_change_invoice.html:21
+msgid "PDF invoice"
+msgstr ""
+
+#: biller/invoice/templates/invoice/admin/admin_change_invoice.html:31
+msgid "Set invoice on-hold"
+msgstr ""
+
+#: biller/invoice/templates/invoice/admin/admin_change_invoice.html:41
+msgid "Unset invoice on-hold"
+msgstr ""
+
+#: biller/invoice/templates/invoice/admin/admin_change_invoice.html:51
+msgid "Mark invoice as paid"
+msgstr ""
+
+#: biller/invoice/templates/invoice/admin/admin_change_invoice.html:61
+msgid "Mark invoice as unpaid"
+msgstr ""
+
+#: biller/invoice/templates/invoice/admin/admin_change_invoice.html:71
+msgid "Mark invoice as write-off"
+msgstr ""
+
+#: biller/invoice/templates/invoice/admin/admin_change_invoice.html:78
+msgid "Mark invoice as dispute write-off"
+msgstr ""
+
+#: biller/invoice/templates/invoice/admin/admin_change_invoice.html:88
+msgid "Mark invoice as dispute refund"
+msgstr ""
+
+#: biller/invoice/templates/invoice/admin/admin_change_invoice.html:98
+msgid "Mark invoice as settled"
+msgstr ""
+
+#: biller/invoice/templates/invoice/admin/admin_change_invoice.html:106
+msgid "Mark invoice as unsettled"
+msgstr ""
+
+#: biller/invoice/templates/invoice/admin/admin_change_settlement.html:12
+#, fuzzy
+msgid "Settlement Report"
+msgstr "Settlement Report"
+
+#: biller/invoice/templates/invoice/admin/admin_change_settlement.html:22
+msgid "Mark settlement as sent"
+msgstr ""
+
+#: biller/invoice/templates/invoice/admin/admin_change_settlement.html:32
+msgid "Mark settlement as paid"
+msgstr ""
+
+#: biller/invoice/templates/invoice/html_invoice.html:9
+msgid "Biller payment request"
+msgstr "Biller payment request"
+
+#: biller/invoice/templates/invoice/html_invoice.html:120
+#, fuzzy, python-format
+msgctxt "payment_request"
+msgid "Attn: %(buyer_first_name)s %(buyer_last_name)s"
+msgstr "Attn: %(buyer_first_name)s %(buyer_last_name)s"
+
+#: biller/invoice/templates/invoice/html_invoice.html:170
+#: biller/invoice/templates/invoice/html_invoice.html:175
+#, fuzzy
+msgctxt "payment_request"
+msgid "Reg no."
+msgstr "Reg no."
+
+#: biller/invoice/templates/invoice/html_invoice.html:179
+#: biller/invoice/templates/invoice/html_invoice.html:184
+#, fuzzy
+msgctxt "payment_request"
+msgid "VAT-id"
+msgstr "VAT-id"
+
+#: biller/invoice/templates/invoice/html_invoice.html:197
+#, fuzzy, python-format
+msgctxt "payment_request"
+msgid "Dear %(buyer_first_name)s,"
+msgstr "Dear %(buyer_first_name)s,"
+
+#: biller/invoice/templates/invoice/html_invoice.html:203
+#, python-format
+msgctxt "payment_request"
+msgid ""
+"Thank you for your purchase from %(seller_brand)s which you have placed on "
+"behalf of %(buyer_company)s."
+msgstr ""
+"Thank you for your purchase from %(seller_brand)s which you have placed on "
+"behalf of %(buyer_company)s."
+
+#: biller/invoice/templates/invoice/html_invoice.html:208
+#, python-format
+msgctxt "payment_request"
+msgid ""
+"If you have questions about this payement request, the delivery or the "
+"order, please contact %(seller_brand)s on %(seller_phone)s or email "
+"%(seller_email)s."
+msgstr ""
+"If you have questions about this payment request, the delivery or the order, "
+"please contact %(seller_brand)s on %(seller_phone)s or email "
+"%(seller_email)s."
+
+#: biller/invoice/templates/invoice/html_invoice.html:222
+msgctxt "payment_request"
+msgid "Seller's invoice number"
+msgstr "Seller's invoice number"
+
+#: biller/invoice/templates/invoice/html_invoice.html:260
+#, fuzzy
+msgctxt "payment_request"
+msgid "Description"
+msgstr "Description"
+
+#: biller/invoice/templates/invoice/html_invoice.html:261
+#, fuzzy
+msgctxt "payment_request"
+msgid "Price"
+msgstr "Price"
+
+#: biller/invoice/templates/invoice/html_invoice.html:262
+#, fuzzy
+msgctxt "payment_request"
+msgid "Qty"
+msgstr "Quantity"
+
+#: biller/invoice/templates/invoice/html_invoice.html:263
+#, fuzzy
+msgctxt "payment_request"
+msgid "Total"
+msgstr "Total"
+
+#: biller/invoice/templates/invoice/html_invoice.html:264
+#: biller/invoice/templates/invoice/html_invoice.html:320
+#, fuzzy
+msgctxt "payment_request"
+msgid "VAT"
+msgstr "VAT"
+
+#: biller/invoice/templates/invoice/html_invoice.html:288
+msgctxt "payment_request"
+msgid "Discount"
+msgstr ""
+
+#: biller/invoice/templates/invoice/html_invoice.html:311
+#, fuzzy
+msgctxt "payment_request"
+msgid "Total excl. VAT"
+msgstr "Total excl. VAT"
+
+#: biller/invoice/templates/invoice/html_invoice.html:325
+msgctxt "payment_request"
+msgid "Discount VAT"
+msgstr ""
+
+#: biller/invoice/templates/invoice/html_invoice.html:331
+#, fuzzy
+msgctxt "payment_request"
+msgid "Total incl. VAT"
+msgstr "Total incl. VAT"
+
+#: biller/invoice/templates/invoice/html_invoice.html:341
+msgctxt "payment_request"
+msgid "Payment details"
+msgstr "Payment details"
+
+#: biller/invoice/templates/invoice/html_invoice.html:344
+msgctxt "payment_request"
+msgid "Amount"
+msgstr "Amount"
+
+#: biller/invoice/templates/invoice/html_invoice.html:350
+msgctxt "payment_request"
+msgid "Beneficiary"
+msgstr "Beneficiary"
+
+#: biller/invoice/templates/invoice/html_invoice.html:354
+msgctxt "payment_request"
+msgid "Payment reference"
+msgstr "Payment reference"
+
+#: biller/invoice/templates/invoice/html_invoice.html:375
+#, fuzzy, python-format
+msgctxt "payment_request"
+msgid ""
+"%(seller_company)s has given %(biller_company_name)s the right to collect "
+"the claim."
+msgstr ""
+"%(seller_company)s has given %(biller_company_name)s the right to collect "
+"the claim."
+
+#: biller/invoice/templates/invoice/html_invoice.html:379
+#, fuzzy, python-format
+msgctxt "payment_request"
+msgid ""
+"Simultaneously, %(seller_company)s has transferred the ownership of that "
+"claim to %(biller_company_name)s (ceded)."
+msgstr ""
+"Simultaneously, %(seller_company)s has transferred the ownership of that "
+"claim to %(biller_company_name)s (ceded)."
+
+#: biller/invoice/templates/invoice/html_invoice.html:383
+#, fuzzy, python-format
+msgctxt "payment_request"
+msgid ""
+"You should receive an invoice directly from the seller, however, the payment "
+"can therefore only be made to %(biller_company_name)s"
+msgstr ""
+"You should receive an invoice directly from the seller, however, the payment "
+"can therefore only be made to %(biller_company_name)s."
+
+#: biller/invoice/templates/invoice/html_invoice.html:391
+#, fuzzy, python-format
+msgctxt "payment_request"
+msgid ""
+"For all payments the general payment conditions apply of "
+"%(biller_company_name)s, trading under the name Biller, located at "
+"%(biller_postal_address_street_name)s "
+"%(biller_postal_address_house_number)s, "
+"%(biller_postal_address_postal_code)s %(biller_postal_address_city)s, "
+"registered with Chamber of Commerce no. %(biller_chamber_of_commerce_no)s "
+"and VAT-id: %(biller_vat_id)s"
+msgstr ""
+"For all payments the general payment conditions apply of "
+"%(biller_company_name)s, trading under the name Biller, located at "
+"%(biller_postal_address_street_name)s "
+"%(biller_postal_address_house_number)s, "
+"%(biller_postal_address_postal_code)s %(biller_postal_address_city)s, "
+"registered with Chamber of Commerce no. %(biller_chamber_of_commerce_no)s "
+"and VAT-id: %(biller_vat_id)s"
+
+#: biller/invoice/templates/invoice/html_settlement.html:11
+msgctxt "settlement"
+msgid "Biller invoice"
+msgstr "Biller invoice"
+
+#: biller/invoice/templates/invoice/html_settlement.html:84
+msgctxt "settlement"
+msgid "Settlement Report"
+msgstr "Settlement Report"
+
+#: biller/invoice/templates/invoice/html_settlement.html:86
+msgctxt "settlement"
+msgid "Payment Reference"
+msgstr "Payment reference"
+
+#: biller/invoice/templates/invoice/html_settlement.html:98
+#, fuzzy
+msgctxt "settlement"
+msgid "VAT"
+msgstr "VAT"
+
+#: biller/invoice/templates/invoice/html_settlement.html:106
+msgctxt "settlement"
+msgid "Seller ID"
+msgstr "Seller ID"
+
+#: biller/invoice/templates/invoice/html_settlement.html:110
+msgctxt "settlement"
+msgid "Payout Date:"
+msgstr "Payout Date:"
+
+#: biller/invoice/templates/invoice/html_settlement.html:124
+msgctxt "settlement"
+msgid "Order ID"
+msgstr "Order ID"
+
+#: biller/invoice/templates/invoice/html_settlement.html:125
+#, fuzzy
+msgctxt "settlement"
+msgid "Invoice"
+msgstr "Invoice"
+
+#: biller/invoice/templates/invoice/html_settlement.html:126
+msgctxt "settlement"
+msgid "Sale amount"
+msgstr "Total order amount"
+
+#: biller/invoice/templates/invoice/html_settlement.html:127
+msgctxt "settlement"
+msgid "Return"
+msgstr "Return"
+
+#: biller/invoice/templates/invoice/html_settlement.html:128
+msgctxt "settlement"
+msgid "Release"
+msgstr "Release"
+
+#: biller/invoice/templates/invoice/html_settlement.html:129
+msgctxt "settlement"
+msgid "Repay"
+msgstr "Repay"
+
+#: biller/invoice/templates/invoice/html_settlement.html:156
+msgctxt "settlement"
+msgid " * item(s) were already settled before, processing refunds only"
+msgstr ""
+
+#: biller/invoice/templates/invoice/html_settlement.html:159
+msgctxt "settlement"
+msgid " ** number of order's refunds"
+msgstr ""
+
+#: biller/invoice/templates/invoice/html_settlement.html:168
+msgctxt "settlement"
+msgid "Sales (Captured Orders)"
+msgstr "Sales (Captured Orders)"
+
+#: biller/invoice/templates/invoice/html_settlement.html:170
+#: biller/invoice/templates/invoice/html_settlement.html:182
+#: biller/invoice/templates/invoice/html_settlement.html:250
+#, python-format
+msgctxt "settlement"
+msgid "%(counter)s Transaction"
+msgid_plural "%(counter)s Transactions"
+msgstr[0] "%(counter)s Transaction"
+msgstr[1] "%(counter)s Transactions"
+
+#: biller/invoice/templates/invoice/html_settlement.html:180
+msgctxt "settlement"
+msgid "Returns (goods/services returned by customer)"
+msgstr "Returns (goods/services returned by customer)"
+
+#: biller/invoice/templates/invoice/html_settlement.html:193
+msgctxt "settlement"
+msgid "Releases (amount relased from holded status. included to sale amount)"
+msgstr "Releases (amount released from holded status. included to sale amount)"
+
+#: biller/invoice/templates/invoice/html_settlement.html:201
+msgctxt "settlement"
+msgid ""
+"Repays (failed payments from previous settlements. included to sale amount)"
+msgstr ""
+"Repays (failed payments from previous settlements. included to sale amount)"
+
+#: biller/invoice/templates/invoice/html_settlement.html:210
+msgctxt "settlement"
+msgid "Comissions"
+msgstr "Commissions"
+
+#: biller/invoice/templates/invoice/html_settlement.html:220
+#, python-format
+msgctxt "settlement"
+msgid "Corrections (%(comment)s)"
+msgstr "Corrections (%(comment)s)"
+
+#: biller/invoice/templates/invoice/html_settlement.html:230
+#, fuzzy
+msgctxt "settlement"
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: biller/invoice/templates/invoice/html_settlement.html:237
+msgctxt "settlement"
+msgid "Fees"
+msgstr "Fees"
+
+#: biller/invoice/templates/invoice/html_settlement.html:239
+#, python-format
+msgctxt "settlement"
+msgid "%% per transaction"
+msgstr "%% per transaction"
+
+#: biller/invoice/templates/invoice/html_settlement.html:245
+#, python-format
+msgctxt "settlement"
+msgid "Fixed fee (%(fixed_fee_rate)s per transaction)"
+msgstr "Fixed fee (%(fixed_fee_rate)s per transaction)"
+
+#: biller/invoice/templates/invoice/html_settlement.html:260
+msgctxt "settlement"
+msgid "VAT on Fees"
+msgstr "VAT on Fees"
+
+#: biller/invoice/templates/invoice/html_settlement.html:266
+msgctxt "settlement"
+msgid "Total Costs and Fees"
+msgstr "Total Costs and Fees"
+
+#: biller/invoice/templates/invoice/html_settlement.html:278
+msgctxt "settlement"
+msgid "Payout"
+msgstr "Payout"
+
+#: biller/invoice/viewsets.py:46
+msgid "List the Invoices"
+msgstr "List the invoices"
+
+#: biller/invoice/viewsets.py:47
+msgid "List the Invoices."
+msgstr "List the invoices"
+
+#: biller/invoice/viewsets.py:51
+msgid "Get the Invoice"
+msgstr ""
+
+#: biller/invoice/viewsets.py:52
+msgid "Get the Invoice."
+msgstr ""
+
+#: biller/invoice/viewsets.py:58
+#, fuzzy
+#| msgid "List the Invoices"
+msgid "Update the Invoice"
+msgstr "List the invoices"
+
+#: biller/invoice/viewsets.py:59
+msgid "Set or update external (seller) invoice ID or invoice URL"
+msgstr ""
+
+#: biller/invoice/viewsets.py:129
+msgid "Set the external (seller) invoice ID"
+msgstr ""
+
+#: biller/invoice/viewsets.py:130
+msgid "Deprecated! Please use the Update the Invoice endpoint."
+msgstr ""
+
+#: biller/multi_country/models.py:28
+msgid "Supported currency"
+msgstr ""
+
+#: biller/multi_country/models.py:29
+msgid "Supported currencies"
+msgstr ""
+
+#: biller/order/admin.py:56
+#, python-brace-format
+msgid "{num_records} records have been marked as accepted"
+msgstr ""
+
+#: biller/order/admin.py:58
+msgid "No eligible records to mark as accepted"
+msgstr ""
+
+#: biller/order/admin.py:133 biller/order_request/admin.py:131
+#: biller/order_request/templates/order_request/order_request.html:14
+#: biller/seller/admin.py:44
+msgid "Webshop"
+msgstr ""
+
+#: biller/order/admin.py:148 biller/order/models.py:299
+#: biller/order_request/admin.py:163
+#, fuzzy
+msgid "Shipping address"
+msgstr "Shipping address"
+
+#: biller/order/admin.py:155 biller/order/models.py:292
+#: biller/order_request/admin.py:180
+#, fuzzy
+msgid "Billing address"
+msgstr "Billing address"
+
+#: biller/order/admin.py:162 biller/order_request/admin.py:197
+msgid "URLs"
+msgstr ""
+
+#: biller/order/admin.py:175 biller/order_request/admin.py:210
+msgid "Additional request data"
+msgstr ""
+
+#: biller/order/admin.py:183 biller/order_request/admin.py:221
+#: biller/payment/admin.py:35
+msgid "Total amount in currency units"
+msgstr ""
+
+#: biller/order/admin.py:187
+msgid "Total amount due in currency units"
+msgstr ""
+
+#: biller/order/admin.py:191 biller/order_request/admin.py:228
+msgid "Seller company name"
+msgstr ""
+
+#: biller/order/admin.py:195
+msgid "Buyer company name"
+msgstr ""
+
+#: biller/order/admin.py:199
+msgid "Representative email"
+msgstr ""
+
+#: biller/order/models.py:276
+msgid "External order UID"
+msgstr ""
+
+#: biller/order/models.py:305 biller/order_request/models.py:219
+msgid "Status"
+msgstr ""
+
+#: biller/order/models.py:313 biller/order_request/models.py:110
+msgid "Order total amount (cents)."
+msgstr ""
+
+#: biller/order/models.py:347 biller/order_request/models.py:211
+#: biller/seller/models.py:61
+msgid "Webshop success URL"
+msgstr ""
+
+#: biller/order/models.py:348 biller/order_request/models.py:212
+#: biller/seller/models.py:62
+msgid "Webshop error URL"
+msgstr ""
+
+#: biller/order/models.py:349 biller/order_request/models.py:213
+#: biller/seller/models.py:63
+msgid "Webshop cancel URL"
+msgstr ""
+
+#: biller/order/models.py:350 biller/order_request/models.py:214
+#: biller/seller/models.py:64
+msgid "Webshop pending URL"
+msgstr ""
+
+#: biller/order/models.py:351 biller/order_request/models.py:215
+#: biller/seller/models.py:65
+msgid "Webshop webhook URL"
+msgstr ""
+
+#: biller/order/models.py:355 biller/order_request/models.py:227
+#: biller/seller/models.py:137
+msgid "Dunning flow"
+msgstr ""
+
+#: biller/order/models.py:363 biller/order_request/models.py:237
+msgid "Order request label"
+msgstr ""
+
+#: biller/order/models.py:367 biller/order_request/models.py:260
+msgid "Hash is verified"
+msgstr ""
+
+#: biller/order/models.py:375 biller/order_request/models.py:337
+msgid "API version"
+msgstr ""
+
+#: biller/order/models.py:384 biller/order_request/models.py:268
+msgid "Fingerprint"
+msgstr ""
+
+#: biller/order/models.py:396 biller/order/viewsets.py:168
+#: biller/order/viewsets.py:211 biller/order/viewsets.py:236
+#: biller/order/viewsets.py:261 biller/order/viewsets.py:288
+#: biller/order/viewsets.py:335 biller/order/viewsets.py:388
+#: biller/order/viewsets.py:517
+msgid "Orders"
+msgstr "Orders"
+
+#: biller/order/models.py:709
+msgid "External product UID"
+msgstr ""
+
+#: biller/order/models.py:712
+msgid "Product price excl. tax"
+msgstr ""
+
+#: biller/order/models.py:713
+msgid "Product price incl. tax"
+msgstr ""
+
+#: biller/order/models.py:715
+msgid "Product tax rate percentage"
+msgstr ""
+
+#: biller/order/models.py:722
+msgid "Order line"
+msgstr ""
+
+#: biller/order/models.py:723
+msgid "Order lines"
+msgstr ""
+
+#: biller/order/models.py:803
+msgid "Order event"
+msgstr ""
+
+#: biller/order/models.py:804
+msgid "Order events"
+msgstr ""
+
+#: biller/order/models.py:824
+msgid "External (seller) credit note ID"
+msgstr ""
+
+#: biller/order/models.py:841
+msgid "UUID of the invoice refund relates to"
+msgstr ""
+
+#: biller/order/models.py:862
+#, fuzzy
+msgid "Description"
+msgstr "Description"
+
+#: biller/order/models.py:863
+msgid "Is refunded?"
+msgstr ""
+
+#: biller/order/models.py:864
+msgid "Refunded at"
+msgstr ""
+
+#: biller/order/models.py:898
+msgid "Order refund"
+msgstr "Order refund"
+
+#: biller/order/models.py:899
+msgid "Order refunds"
+msgstr ""
+
+#: biller/order/models.py:1041
+msgid "Amount excl. tax (total for the quantity given)"
+msgstr ""
+
+#: biller/order/models.py:1044
+msgid "Amount incl. tax (total for the quantity given)"
+msgstr ""
+
+#: biller/order/notifications.py:24
+#, python-format
+msgid "Payment request for your purchase from %(seller_brand)s with Biller"
+msgstr "Payment request for your purchase from %(seller_brand)s with Biller"
+
+#: biller/order/notifications.py:52
+#, python-format
+msgid "Purchase refund from %(seller_brand)s"
+msgstr "Purchase refund from %(seller_brand)s"
+
+#: biller/order/serializers/cancel.py:40 biller/order/serializers/capture.py:41
+#: biller/order/serializers/refund.py:106
+msgid "UUID of the Order."
+msgstr ""
+
+#: biller/order/serializers/cancel.py:41 biller/order/serializers/capture.py:43
+#: biller/order/serializers/refund.py:108
+msgid "Success message."
+msgstr ""
+
+#: biller/order/serializers/capture.py:42
+#: biller/order/serializers/refundable_invoices.py:16
+msgid "UUID of the Invoice."
+msgstr ""
+
+#: biller/order/serializers/refund.py:107
+msgid "Refund objects (credit notes) created."
+msgstr ""
+
+#: biller/order/serializers/refund.py:132
+msgid ""
+"Regardless of the refund method used, the 200 response (and the credit notes "
+"created) will have the same structure. Each entry in the `refunds` list "
+"represents a credit note."
+msgstr ""
+
+#: biller/order/serializers/refundable_invoices.py:15
+msgid "UUID of the Invoice (alias of the `uuid`)."
+msgstr ""
+
+#: biller/order/serializers/refundable_invoices.py:17
+msgid "Currency code."
+msgstr ""
+
+#: biller/order/serializers/refundable_invoices.py:18
+msgid "Currency symbol."
+msgstr ""
+
+#: biller/order/serializers/refundable_invoices.py:20
+msgid "Refundable Invoice lines"
+msgstr ""
+
+#: biller/order/serializers/refundable_invoices.py:27
+msgid "Number of invoices"
+msgstr ""
+
+#: biller/order/serializers/refundable_invoices.py:28
+msgid "Next link"
+msgstr ""
+
+#: biller/order/serializers/refundable_invoices.py:29
+msgid "Previous link"
+msgstr ""
+
+#: biller/order/serializers/refundable_invoices.py:30
+msgid "Refundable Invoices"
+msgstr ""
+
+#: biller/order/serializers/retrieve.py:57
+#: biller/order/serializers/retrieve.py:58
+#: biller/order/serializers/retrieve.py:59
+msgid "Get order status example `rejected`"
+msgstr ""
+
+#: biller/order/serializers/retrieve.py:71
+msgid ""
+"This is the `status` of the Order.\n"
+" Order statuses: \n"
+msgstr ""
+
+#: biller/order/serializers/retrieve.py:77
+#: biller/order/serializers/retrieve.py:78
+#: biller/order/serializers/retrieve.py:79
+msgid "Get order status example `Order does not exist`"
+msgstr ""
+
+#: biller/order/serializers/retrieve.py:107
+msgid "This is the `capture status` of Order."
+msgstr ""
+
+#: biller/order/templates/herald/html/captured.html:5
+#, python-format
+msgctxt "capturing"
+msgid ""
+"Thank you for your purchase from %(seller_brand)s which you have placed on "
+"behalf of %(buyer_company)s!"
+msgstr ""
+"Thank you for your purchase from %(seller_brand)s which you have placed on "
+"behalf of %(buyer_company)s!"
+
+#: biller/order/templates/herald/html/captured.html:9
+#: biller/order/templates/herald/text/captured.txt:10
+msgctxt "capturing"
+msgid "Please refer to the attachment for your complete order summary."
+msgstr "Please refer to the attachment for your complete order summary."
+
+#: biller/order/templates/herald/html/captured.html:25
+#, python-format
+msgctxt "capturing"
+msgid ""
+"Thank you for your purchase from <a target=\"_blank\" style=\"color: #7d55b9;"
+"\" href=\"%(seller_url)s\">%(seller_url)s</a> which you have placed on "
+"behalf of %(buyer_company)s!"
+msgstr ""
+"Thank you for your purchase from <a target=\"_blank\" style=\"color: #7d55b9;"
+"\" href=\"%(seller_url)s\"> %(seller_url)s </a> which you have placed on "
+"behalf of %(buyer_company)s!"
+
+#: biller/order/templates/herald/html/captured.html:31
+msgctxt "capturing"
+msgid ""
+"Please refer to the attachment for your complete order summary and invoice."
+msgstr "Please refer to the attachment for your complete order summary."
+
+#: biller/order/templates/herald/html/captured.html:39
+#, fuzzy, python-format
+msgctxt "capturing"
+msgid ""
+"%(seller_brand)s, registered as %(seller_company)s has given "
+"%(biller_company_name)s the right to collect the claim."
+msgstr ""
+"%(seller_brand)s, registered as %(seller_company)s, has authorised "
+"%(biller_company_name)s to collect the claim."
+
+#: biller/order/templates/herald/html/captured.html:44
+#: biller/order/templates/herald/text/captured.txt:17
+#, fuzzy, python-format
+msgctxt "capturing"
+msgid ""
+"Simultaneously, %(seller_company)s has transferred the ownership of that "
+"claim to %(biller_company_name)s (ceded)."
+msgstr ""
+"Simultaneously, %(seller_company)s has transferred the ownership of that "
+"claim to %(biller_company_name)s (ceded)."
+
+#: biller/order/templates/herald/html/captured.html:48
+#: biller/order/templates/herald/text/captured.txt:20
+#, python-format
+msgctxt "capturing"
+msgid ""
+"You should receive an invoice directly from the seller, however, the payment "
+"can therefore only be made to %(biller_company_name)s."
+msgstr ""
+"You should receive an invoice directly from the seller, however, the payment "
+"can therefore only be made to %(biller_company_name)s."
+
+#: biller/order/templates/herald/html/captured.html:54
+#: biller/order/templates/herald/text/captured.txt:24
+msgctxt "capturing"
+msgid "For more information, please refer to the invoice."
+msgstr "For more information, please refer to the invoice."
+
+#: biller/order/templates/herald/html/refunded.html:6
+#: biller/order/templates/herald/html/refunded.html:32
+#: biller/order/templates/herald/text/refunded.txt:7
+#, python-format
+msgctxt "refund"
+msgid ""
+"This is a notification that your purchase with order number %(order_number)s "
+"from %(seller_brand)s with Biller has been fully refunded"
+msgstr ""
+"This is a notification that your purchase with order number %(order_number)s "
+"from %(seller_brand)s with Biller has been fully refunded."
+
+#: biller/order/templates/herald/html/refunded.html:10
+#: biller/order/templates/herald/html/refunded.html:36
+#: biller/order/templates/herald/text/refunded.txt:11
+#, python-format
+msgctxt "refund"
+msgid ""
+"This is a notification that your purchase with order number %(order_number)s "
+"from %(seller_brand)s with Biller has been partially refunded"
+msgstr ""
+"This is a notification that your purchase with order number %(order_number)s "
+"from %(seller_brand)s with Biller has been partially refunded."
+
+#: biller/order/templates/herald/html/refunded.html:15
+#: biller/order/templates/herald/html/refunded.html:41
+#: biller/order/templates/herald/text/refunded.txt:16
+msgctxt "refund"
+msgid "Please find the updated payment request in this email."
+msgstr "Please find the updated payment request in this email."
+
+#: biller/order/templates/herald/html/refunded.html:47
+#: biller/order/templates/herald/text/refunded.txt:19
+#, python-format
+msgctxt "refund"
+msgid "This credit note relates to order %(order_number)s."
+msgstr "This refund notification relates to order %(order_number)s."
+
+#: biller/order/templates/herald/html/refunded.html:50
+#: biller/order/templates/herald/text/refunded.txt:22
+msgctxt "refund"
+msgid "The original payment request has been sent to you in an earlier email."
+msgstr "The original payment request has been sent to you in an earlier email."
+
+#: biller/order/templates/herald/text/captured.txt:6
+#, python-format
+msgctxt "capturing"
+msgid ""
+"Thank you for your purchase from %(seller_url)s which you have placed on "
+"behalf of %(buyer_company)s!"
+msgstr ""
+"Thank you for your purchase from %(seller_url)s which you have placed on "
+"behalf of %(buyer_company)s!"
+
+#: biller/order/templates/herald/text/captured.txt:14
+#, python-format
+msgctxt "capturing"
+msgid ""
+"%(seller_brand)s, registered as %(seller_company)s, has authorised "
+"%(biller_company_name)s to collect the claim."
+msgstr ""
+"%(seller_brand)s, registered as %(seller_company)s, has authorized "
+"%(biller_company_name)s to collect the claim."
+
+#: biller/order/templates/order/admin/admin_change_refund.html:11
+msgid "HTML credit note"
+msgstr ""
+
+#: biller/order/templates/order/admin/admin_change_refund.html:19
+msgid "PDF credit note"
+msgstr "PDF refund notification"
+
+#: biller/order/templates/order/html_refund.html:9
+msgctxt "refund"
+msgid "Biller credit note"
+msgstr "Biller refund notification"
+
+#: biller/order/templates/order/html_refund.html:119
+#, python-format
+msgctxt "refund"
+msgid "Attn: %(buyer_first_name)s %(buyer_last_name)s"
+msgstr "Attn: %(buyer_first_name)s %(buyer_last_name)s"
+
+#: biller/order/templates/order/html_refund.html:169
+#: biller/order/templates/order/html_refund.html:174
+#, fuzzy
+msgctxt "refund"
+msgid "Reg no."
+msgstr "Reg no."
+
+#: biller/order/templates/order/html_refund.html:178
+#: biller/order/templates/order/html_refund.html:183
+#, fuzzy
+msgctxt "refund"
+msgid "VAT-id"
+msgstr "VAT-id"
+
+#: biller/order/templates/order/html_refund.html:196
+#, python-format
+msgctxt "refund"
+msgid "Dear %(buyer_first_name)s,"
+msgstr "Dear %(buyer_first_name)s,"
+
+#: biller/order/templates/order/html_refund.html:202
+#, python-format
+msgctxt "refund"
+msgid ""
+"Here is the credit note for your purchase at %(seller_brand)s which you have "
+"placed on behalf of %(buyer_company)s on %(order_date)s."
+msgstr ""
+"Here is the refund notification for your purchase at %(seller_brand)s which "
+"you have placed on behalf of %(buyer_company)s on %(order_date)s."
+
+#: biller/order/templates/order/html_refund.html:215
+msgctxt "refund"
+msgid "Credit note for invoice with order number"
+msgstr "Refund notification for invoice with order number"
+
+#: biller/order/templates/order/html_refund.html:219
+msgctxt "refund"
+msgid "Invoice date"
+msgstr "Invoice date"
+
+#: biller/order/templates/order/html_refund.html:225
+msgctxt "refund"
+msgid "Seller credit note:"
+msgstr "Seller credit note"
+
+#: biller/order/templates/order/html_refund.html:230
+msgctxt "refund"
+msgid "Due date"
+msgstr "Due date"
+
+#: biller/order/templates/order/html_refund.html:235
+msgctxt "refund"
+msgid "Reason"
+msgstr "Reason"
+
+#: biller/order/templates/order/html_refund.html:243
+msgctxt "refund"
+msgid "Description"
+msgstr "Description"
+
+#: biller/order/templates/order/html_refund.html:244
+msgctxt "refund"
+msgid "details"
+msgstr "details"
+
+#: biller/order/templates/order/html_refund.html:245
+#, fuzzy
+msgctxt "refund"
+msgid "Qty"
+msgstr "Quantity"
+
+#: biller/order/templates/order/html_refund.html:246
+#, fuzzy
+msgctxt "refund"
+msgid "Total"
+msgstr "Total"
+
+#: biller/order/templates/order/html_refund.html:247
+#: biller/order/templates/order/html_refund.html:294
+#, fuzzy
+msgctxt "refund"
+msgid "VAT"
+msgstr "VAT"
+
+#: biller/order/templates/order/html_refund.html:270
+msgctxt "refund"
+msgid "Discount"
+msgstr ""
+
+#: biller/order/templates/order/html_refund.html:285
+msgctxt "refund"
+msgid "Total excl. VAT"
+msgstr "Total excl. VAT"
+
+#: biller/order/templates/order/html_refund.html:301
+msgctxt "refund"
+msgid "Total incl. VAT"
+msgstr "Total incl. VAT"
+
+#: biller/order/templates/order/html_refund.html:313
+#, python-format
+msgctxt "refund"
+msgid ""
+"%(seller_company)s has given %(biller_company_name)s the right to collect "
+"the claim."
+msgstr ""
+"%(seller_company)s has given %(biller_company_name)s the right to collect "
+"the claim."
+
+#: biller/order/templates/order/html_refund.html:317
+#, python-format
+msgctxt "refund"
+msgid ""
+"Simultaneously, %(seller_company)s has transferred the ownership of that "
+"claim to %(biller_company_name)s (ceded)."
+msgstr ""
+"Simultaneously, %(seller_company)s has transferred the ownership of that "
+"claim to %(biller_company_name)s (ceded)."
+
+#: biller/order/templates/order/html_refund.html:321
+#, python-format
+msgctxt "refund"
+msgid ""
+"You should receive an invoice directly from the seller, however, the payment "
+"can therefore only be made to %(biller_company_name)s"
+msgstr ""
+"You should receive an invoice directly from the seller, however, the payment "
+"can therefore only be made to %(biller_company_name)s."
+
+#: biller/order/templates/order/html_refund.html:329
+#, python-format
+msgctxt "refund"
+msgid ""
+"For all payments the general payment conditions apply of "
+"%(biller_company_name)s, trading under the name Biller, located at "
+"%(biller_postal_address_street_name)s "
+"%(biller_postal_address_house_number)s, "
+"%(biller_postal_address_postal_code)s %(biller_postal_address_city)s, "
+"registered with Chamber of Commerce no. %(biller_chamber_of_commerce_no)s "
+"and VAT-id: %(biller_vat_id)s"
+msgstr ""
+"For all payments the general payment conditions apply of "
+"%(biller_company_name)s, trading under the name Biller, located at "
+"%(biller_postal_address_street_name)s "
+"%(biller_postal_address_house_number)s, "
+"%(biller_postal_address_postal_code)s %(biller_postal_address_city)s, "
+"registered with Chamber of Commerce no. %(biller_chamber_of_commerce_no)s "
+"and VAT-id: %(biller_vat_id)s"
+
+#: biller/order/viewsets.py:166
+msgid "List the Orders"
+msgstr ""
+
+#: biller/order/viewsets.py:167
+msgid "List all the orders associated to the authenticated user."
+msgstr ""
+
+#: biller/order/viewsets.py:209
+msgid "Get the Order"
+msgstr ""
+
+#: biller/order/viewsets.py:210
+msgid "Get the full details of an order."
+msgstr ""
+
+#: biller/order/viewsets.py:234
+msgid "Get the Order status"
+msgstr ""
+
+#: biller/order/viewsets.py:235
+msgid "Retrieve the status of an Order."
+msgstr ""
+
+#: biller/order/viewsets.py:257
+msgid "Order captured status"
+msgstr ""
+
+#: biller/order/viewsets.py:259
+msgid ""
+"Get details of what has been captured and what remains to be captured in an "
+"order"
+msgstr ""
+
+#: biller/order/viewsets.py:280
+msgid "Get the refundable Invoices of the Order"
+msgstr ""
+
+#: biller/order/viewsets.py:282
+msgid ""
+"The response returns a list of Invoices where a `refundable_quantity` and a "
+"`total_refundable_amount` is shown for each invoice line.<br>The "
+"`refundable_quantity` is calculated as `quantity` minus the _already "
+"refunded quantity_.<br>The `total_refundable_amount` fields are calculated "
+"per line based on the `refundable_quantity` field and the `product_price` "
+"fields, being `product_price` the price per unit"
+msgstr ""
+
+#: biller/order/viewsets.py:334
+msgid "Cancel the Order"
+msgstr "Cancel order"
+
+#: biller/order/viewsets.py:381
+msgid "Capture the Order"
+msgstr "Capture the Order"
+
+#: biller/order/viewsets.py:383
+msgid ""
+"Capture (part of) an accepted order to let Biller know that you have shipped "
+"the goods, and Biller will send a payment request to the Buyer. Only the "
+"captured parts of orders can be settled (paid out) and/or [refunded]"
+"(#operation/v1_api_orders_refund_create)."
+msgstr ""
+
+#: biller/order/viewsets.py:509
+msgid "Refund the Order"
+msgstr ""
+
+#: biller/order/viewsets.py:511
+msgid ""
+"For full refunds, simply supply the order amount and the refund description. "
+"For partial refunds, the payload must also contain a list of `invoices` to "
+"be refunded. Regardless of refund method used, upon a successful refund, one "
+"credit note will be created per affected invoice."
+msgstr ""
+
+#: biller/order_request/models.py:71
+msgid "Locale identifier"
+msgstr ""
+
+#: biller/order_request/models.py:80
+msgid "Webshop ID configured by Biller"
+msgstr ""
+
+#: biller/order_request/models.py:84
+msgid "External order ID"
+msgstr ""
+
+#: biller/order_request/models.py:90
+msgid "Buyer's company name"
+msgstr ""
+
+#: biller/order_request/models.py:92
+msgid "Company chamber of commerce code"
+msgstr ""
+
+#: biller/order_request/models.py:104
+msgid "Company CreditsafeUID"
+msgstr ""
+
+#: biller/order_request/models.py:109
+msgid "Order lines (JSON)"
+msgstr ""
+
+#: biller/order_request/models.py:120
+msgid "Discount (JSON)"
+msgstr ""
+
+#: biller/order_request/models.py:130
+msgid "Shipping address street"
+msgstr ""
+
+#: biller/order_request/models.py:137
+msgid "Shipping address house number"
+msgstr ""
+
+#: biller/order_request/models.py:144
+msgid "Shipping address house number suffix"
+msgstr ""
+
+#: biller/order_request/models.py:152
+msgid "Shipping address street address 1"
+msgstr ""
+
+#: biller/order_request/models.py:158
+msgid "Shipping address street address 2"
+msgstr ""
+
+#: biller/order_request/models.py:160
+msgid "Shipping address city"
+msgstr ""
+
+#: biller/order_request/models.py:162
+msgid "Shipping address region"
+msgstr ""
+
+#: biller/order_request/models.py:165
+msgid "Shipping address post/Zip-code"
+msgstr ""
+
+#: biller/order_request/models.py:167
+msgid "Shipping address country"
+msgstr ""
+
+#: biller/order_request/models.py:171
+msgid "Billing address street"
+msgstr ""
+
+#: biller/order_request/models.py:178
+msgid "Billing address house number"
+msgstr ""
+
+#: biller/order_request/models.py:185
+msgid "Billing address house number suffix"
+msgstr ""
+
+#: biller/order_request/models.py:193
+msgid "Billing address street address 1"
+msgstr ""
+
+#: biller/order_request/models.py:199
+msgid "Billing address street address 2"
+msgstr ""
+
+#: biller/order_request/models.py:201
+msgid "Billing address city"
+msgstr ""
+
+#: biller/order_request/models.py:203
+msgid "Billing address region"
+msgstr ""
+
+#: biller/order_request/models.py:206
+msgid "Billing address postal code/Zip-code"
+msgstr ""
+
+#: biller/order_request/models.py:208
+msgid "Billing address country"
+msgstr ""
+
+#: biller/order_request/models.py:247
+msgid "Payment link duration in seconds."
+msgstr ""
+
+#: biller/order_request/models.py:261
+msgid "OTP has been verified to the buyer"
+msgstr ""
+
+#: biller/order_request/models.py:271
+msgid "Request META"
+msgstr ""
+
+#: biller/order_request/models.py:348
+msgid "Order requests"
+msgstr ""
+
+#: biller/order_request/models.py:769
+msgid "Order created"
+msgstr ""
+
+#: biller/order_request/models.py:769
+msgid "Order found"
+msgstr ""
+
+#: biller/order_request/models.py:773
+msgid "Webshop not known"
+msgstr ""
+
+#: biller/order_request/models.py:780
+msgid "Order creation error"
+msgstr ""
+
+#: biller/order_request/notifications.py:33
+msgid "Biller - email verification"
+msgstr ""
+
+#: biller/order_request/serializers.py:155
+#, python-format
+msgid "Discount description to be displayed, for example: \"10% discount\"."
+msgstr ""
+
+#: biller/order_request/serializers.py:160
+msgid "Discount amount (cents) including tax."
+msgstr ""
+
+#: biller/order_request/serializers.py:165
+msgid "Discount amount (cents) excluding tax."
+msgstr ""
+
+#: biller/order_request/serializers.py:170
+msgid "Tax amount (cents) in discount."
+msgstr ""
+
+#: biller/order_request/serializers.py:340
+#: biller/order_request/serializers.py:406
+msgid "Street name, house number and house number suffix."
+msgstr ""
+
+#: biller/order_request/serializers.py:347
+#: biller/order_request/serializers.py:413
+msgid "Apartment, suite, unit or building."
+msgstr ""
+
+#: biller/order_request/serializers.py:455
+msgid "Unfortunately you cannot pay with Biller in your country yet"
+msgstr ""
+
+#: biller/order_request/serializers.py:584
+msgid "Seller profile does not exist"
+msgstr ""
+
+#: biller/order_request/serializers.py:592
+msgid "Duplicated product_id"
+msgstr ""
+
+#: biller/order_request/serializers.py:630
+msgid ""
+"Discount total_tax cannot be greater than the summed tax of order_lines."
+msgstr ""
+
+#: biller/order_request/serializers.py:633
+msgid "Seller does not accept this currency"
+msgstr ""
+
+#: biller/order_request/templates/herald/html/otp.html:8
+#: biller/order_request/templates/herald/html/otp.html:31
+#: biller/order_request/templates/herald/text/otp.txt:2
+#, fuzzy, python-format
+msgctxt "otp"
+msgid "Please use this verification code for your purchase with %(seller)s"
+msgstr "Please use this verification code for your purchase with %(seller)s."
+
+#: biller/order_request/templates/herald/html/otp.html:12
+#: biller/order_request/templates/herald/text/otp.txt:10
+#, python-format
+msgctxt "otp"
+msgid "Need help? Please contact %(biller_customer_support_email)s"
+msgstr "Need help? Please contact %(biller_customer_support_email)s."
+
+#: biller/order_request/templates/herald/html/otp.html:51
+#: biller/order_request/templates/herald/text/otp.txt:8
+msgctxt "otp"
+msgid "This code will expire in 15 minutes."
+msgstr "This code will expire in 15 minutes."
+
+#: biller/order_request/templates/herald/html/otp.html:59
+#, python-format
+msgctxt "otp"
+msgid ""
+"Need help? Please contact<a target=\"_blank\" href=\"mailto:"
+"%(biller_customer_support_email)s\"> %(biller_customer_support_email)s</a>"
+msgstr ""
+"Need help? Please contact <a target=\"_blank\" href=\"mailto:"
+"%(biller_customer_support_email)s\"> %(biller_customer_support_email)s</a>."
+
+#: biller/order_request/templates/herald/text/otp.txt:15
+#, fuzzy
+msgctxt "otp"
+msgid "Reg no."
+msgstr "Reg no."
+
+#: biller/order_request/templates/order_request/footer.html:9
+msgctxt "hpp"
+msgid "What is Biller?"
+msgstr "What is Biller?"
+
+#: biller/order_request/templates/order_request/footer.html:15
+msgctxt "hpp"
+msgid "Terms & Privacy"
+msgstr "Terms & Privacy"
+
+#: biller/order_request/templates/order_request/footer.html:21
+msgctxt "hpp"
+msgid "Signal a problem"
+msgstr "Signal a problem"
+
+#: biller/order_request/templates/order_request/not_found.html:15
+msgctxt "hpp"
+msgid "The purchase order you requested does not exist."
+msgstr "The purchase order you requested does not exist."
+
+#: biller/order_request/templates/order_request/not_found.html:19
+#: biller/order_request/templates/order_request/order_request.html:126
+msgctxt "hpp"
+msgid "Go back"
+msgstr "Go back"
+
+#: biller/order_request/templates/order_request/order_request.html:13
+#: biller/order_request/templates/order_request/order_request.html:125
+#: biller/order_request/templates/order_request/order_request.html:174
+msgctxt "hpp"
+msgid "Cancel order and return to webshop"
+msgstr "Cancel order and return to webshop"
+
+#: biller/order_request/templates/order_request/order_request.html:25
+msgctxt "hpp"
+msgid "Contact details"
+msgstr "Contact details"
+
+#: biller/order_request/templates/order_request/order_request.html:33
+msgctxt "hpp"
+msgid "Shipping address"
+msgstr "Shipping address"
+
+#: biller/order_request/templates/order_request/order_request.html:56
+msgctxt "hpp"
+msgid "Billing address"
+msgstr "Billing address"
+
+#: biller/order_request/templates/order_request/order_request.html:76
+msgctxt "hpp"
+msgid "Order summary"
+msgstr "Order summary"
+
+#: biller/order_request/templates/order_request/order_request.html:79
+msgctxt "hpp"
+msgid "Order details"
+msgstr "Order details"
+
+#: biller/order_request/templates/order_request/order_request.html:80
+msgctxt "hpp"
+msgid "Qty"
+msgstr "Quantity"
+
+#: biller/order_request/templates/order_request/order_request.html:81
+msgctxt "hpp"
+msgid "Price (ex. VAT)"
+msgstr ""
+
+#: biller/order_request/templates/order_request/order_request.html:97
+msgctxt "hpp"
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: biller/order_request/templates/order_request/order_request.html:102
+msgctxt "hpp"
+msgid "VAT"
+msgstr "VAT"
+
+#: biller/order_request/templates/order_request/order_request.html:117
+msgctxt "hpp"
+msgid "Total"
+msgstr "Total"
+
+#: biller/order_request/templates/order_request/order_request.html:128
+msgctxt "hpp"
+msgid "Select buying company"
+msgstr "Select company"
+
+#: biller/order_request/templates/order_request/order_request.html:129
+msgctxt "hpp"
+msgid "Purchase"
+msgstr "Purchase"
+
+#: biller/order_request/templates/order_request/order_request.html:161
+#: biller/order_request/templates/order_request/order_request.html:175
+msgctxt "hpp"
+msgid "Cancel order"
+msgstr "Cancel order"
+
+#: biller/order_request/templates/order_request/order_request.html:164
+#: biller/order_request/templates/order_request/order_request.html:177
+#: biller/order_request/templates/order_request/order_request.html:188
+#: biller/order_request/templates/order_request/order_request.html:255
+msgctxt "hpp"
+msgid "Close"
+msgstr "Close"
+
+#: biller/order_request/templates/order_request/order_request.html:170
+msgctxt "hpp"
+msgid "Are you sure you want to cancel this order and return to the webshop?"
+msgstr "Are you sure you want to cancel this order and return to the webshop?"
+
+#: biller/order_request/templates/order_request/order_request.html:178
+msgctxt "hpp"
+msgid "No, continue"
+msgstr "No, continue"
+
+#: biller/order_request/templates/order_request/order_request.html:187
+msgctxt "hpp"
+msgid "Verify your email"
+msgstr "Verify your email"
+
+#: biller/order_request/templates/order_request/order_request.html:195
+#, fuzzy, python-format
+msgctxt "hpp"
+msgid ""
+"To make sure it is really you, we’ve sent a code to <span class="
+"\"otp_email_address\">%(email)s</span>"
+msgstr ""
+"To make sure it is really you, we’ve sent a code to <span class="
+"\"otp_email_address\">%(email)s</span>"
+
+#: biller/order_request/templates/order_request/order_request.html:212
+msgctxt "hpp"
+msgid "No code? Please check your spam folder."
+msgstr "No code? Please check your spam folder."
+
+#: biller/order_request/templates/order_request/order_request.html:216
+msgctxt "hpp"
+msgid "Confirm"
+msgstr ""
+
+#: biller/order_request/templates/order_request/order_request.html:220
+msgctxt "hpp"
+msgid "Resend code"
+msgstr "Resend code"
+
+#: biller/order_request/templates/order_request/order_request.html:220
+msgctxt "hpp"
+msgid "- Done!"
+msgstr ""
+
+#: biller/order_request/templates/order_request/order_request.html:234
+msgctxt "hpp"
+msgid "Alert icon"
+msgstr "Alert icon"
+
+#: biller/order_request/templates/order_request/order_request.html:271
+#, python-format
+msgctxt "hpp"
+msgid ""
+"By continuing, I confirm that I have read and agreed to Biller's <a href="
+"\"https://biller.ai/wp-content/uploads/2022/01/Privacy-statement-Biller-"
+"version-301221.pdf\" target=\"_blank\">Privacy Notice</a> and I agree to "
+"their <a href=%(terms_and_conditions_link)s target=\"_blank\">Terms & "
+"Conditions</a>."
+msgstr ""
+"By continuing, I confirm that I have read and agreed to Biller's <a href="
+"\"https://biller.ai/wp-content/uploads/2022/01/Privacy-statement-Biller-"
+"version-301221.pdf\" target=\"_blank\">Privacy Notice</a> and I agree to "
+"their <a href=%(terms_and_conditions_link)s target=\"_blank\">Terms & "
+"Conditions</a>."
+
+#: biller/order_request/templates/order_request/order_request.html:300
+msgid "the webshop"
+msgstr ""
+
+#: biller/order_request/templates/order_request/order_request.html:348
+msgctxt "hpp"
+msgid "You need JavaScript enabled on your browser to be able to use Biller!"
+msgstr "You need JavaScript enabled on your browser to be able to use Biller!"
+
+#: biller/order_request/templates/order_request/timeout.html:15
+msgctxt "hpp"
+msgid "The purchase order you requested has timed out."
+msgstr "The purchase order you requested has timed out."
+
+#: biller/order_request/templates/order_request/timeout.html:19
+msgctxt "hpp"
+msgid "Go back to webshop"
+msgstr "Go back to webshop"
+
+#: biller/order_request/views.py:83
+msgid "Biller - Payment page"
+msgstr ""
+
+#: biller/order_request/views.py:241
+#, python-format
+msgid "Business invoice, net payment term of %(num)s days"
+msgstr "Business invoice, net payment term of %(num)s days"
+
+#: biller/order_request/views.py:246
+msgid "Business invoice"
+msgstr "Business invoice"
+
+#: biller/order_request/viewsets.py:23
+msgid "Create a new OrderRequest"
+msgstr ""
+
+#: biller/order_request/viewsets.py:24
+msgid "Order Requests"
+msgstr ""
+
+#: biller/payment/models.py:42
+msgid "Invoice payment"
+msgstr "Invoice payment"
+
+#: biller/payment/models.py:43
+msgid "Invoice payments"
+msgstr "Invoice payments"
+
+#: biller/reusable/utils.py:85
+#, python-format
+msgid "Addresses in %(country)s require a valid postal code"
+msgstr ""
+
+#: biller/reusable/utils.py:97
+#, python-format
+msgid "The postcode '%(postal_code)s' is not valid for %(country)s"
+msgstr ""
+
+#: biller/reusable/utils.py:114
+#, python-format
+msgid "The phone number '%(phone_number)s' is not valid"
+msgstr ""
+
+#: biller/seller/admin.py:58
+msgid "Accepted currencies"
+msgstr ""
+
+#: biller/seller/admin.py:64
+msgid "Secrets"
+msgstr ""
+
+#: biller/seller/admin.py:71
+msgid "Customer support"
+msgstr ""
+
+#: biller/seller/admin.py:84
+msgid "Biller fees"
+msgstr ""
+
+#: biller/seller/admin.py:116
+msgid "Generate Settlement Report"
+msgstr ""
+
+#: biller/seller/admin.py:127
+#, python-brace-format
+msgid ""
+"Generated {settlement_count} settlement reports for {invoice_count} sellers."
+msgstr ""
+
+#: biller/seller/admin.py:204
+msgid ""
+"Successfully generated settlement <a href='{reverse('admin:"
+"invoice_settlement_change', args=[settlement.pk])}' "
+"target='_blank'>{settlement.payment_reference}</a>."
+msgstr ""
+
+#: biller/seller/admin.py:211
+msgid "All orders for this seller profile have been already settled"
+msgstr ""
+
+#: biller/seller/admin.py:234
+msgid ""
+"There is already a settlement in progress. Finish it first. <a "
+"href='{reverse('admin:invoice_settlement_change', args=[settlement.pk])}' "
+"target='_blank'>{settlement.payment_reference}</a>."
+msgstr ""
+
+#: biller/seller/models.py:42 biller/seller/models.py:54
+msgid "Seller"
+msgstr ""
+
+#: biller/seller/models.py:43
+msgid "Sellers"
+msgstr ""
+
+#: biller/seller/models.py:56
+msgid "Company brand name"
+msgstr ""
+
+#: biller/seller/models.py:59
+msgid "Webshop ID"
+msgstr ""
+
+#: biller/seller/models.py:60
+msgid "Webshop root URL"
+msgstr ""
+
+#: biller/seller/models.py:67
+msgid "Secret key"
+msgstr ""
+
+#: biller/seller/models.py:71
+msgid "Customer support email"
+msgstr ""
+
+#: biller/seller/models.py:74
+msgid "Customer support phone number"
+msgstr ""
+
+#: biller/seller/models.py:80
+msgid "Website URL"
+msgstr ""
+
+#: biller/seller/models.py:82
+msgid "Contact email owner"
+msgstr ""
+
+#: biller/seller/models.py:85
+msgid "Settlement/finance department email"
+msgstr ""
+
+#: biller/seller/models.py:91
+msgid "Risk email"
+msgstr ""
+
+#: biller/seller/models.py:108
+msgid ""
+"This fee will be taken per each translaction. Value stored in currency "
+"units, not in cents (i.e. euros)"
+msgstr ""
+
+#: biller/seller/models.py:112
+msgid "Percentage fee"
+msgstr ""
+
+#: biller/seller/models.py:122
+msgid "Payout schedule"
+msgstr ""
+
+#: biller/seller/models.py:145
+#, python-format
+msgid ""
+"Dunning flow choices. Multiple values allowed (comma separated). First value "
+"is used as default. Valid choices are: %(choices)s"
+msgstr ""
+
+#: biller/seller/models.py:160
+msgid "Seller profiles"
+msgstr ""
+
+#: biller/seller/models.py:222
+msgid "User"
+msgstr ""
+
+#: biller/seller/models.py:239
+msgid "Seller user"
+msgstr ""
+
+#: biller/seller/models.py:240
+msgid "Seller users"
+msgstr ""
+
+#: biller/seller/templates/seller/admin/admin_change_seller_profile.html:10
+msgid "Create Settlement"
+msgstr ""
+
+#: biller/seller/viewsets.py:48
+msgid "List the Seller Users"
+msgstr ""
+
+#: biller/seller/viewsets.py:49
+msgid "List the Seller Users."
+msgstr ""
+
+#: biller/seller/viewsets.py:50 biller/seller/viewsets.py:58
+msgid "Seller Users"
+msgstr ""
+
+#: biller/seller/viewsets.py:56
+msgid "Get the Seller User"
+msgstr ""
+
+#: biller/seller/viewsets.py:57
+msgid "Get the Seller User."
+msgstr ""
+
+#: biller/sendgrid_monitoring/models.py:11
+msgid "Created by sendgrid at"
+msgstr ""
+
+#: biller/sendgrid_monitoring/models.py:12
+msgid "Recipient e-mail"
+msgstr ""
+
+#: biller/sendgrid_monitoring/models.py:13
+msgid "Delivery failure reason"
+msgstr ""
+
+#: biller/sendgrid_monitoring/models.py:16
+msgid "Sendgrid event"
+msgstr ""
+
+#: biller/sendgrid_monitoring/models.py:17
+msgid "Sendgrid events"
+msgstr ""
+
+#: biller/settings2/components/all/010_base.py:99
+msgid "British English"
+msgstr ""
+
+#: biller/settings2/components/all/010_base.py:102
+msgid "Belgian French"
+msgstr ""
+
+#: biller/swagger.py:37
+msgid ""
+"We use [JWT tokens](https://jwt.io/) for authentication. Token expires in 2 "
+"hours, refresh token expires in 1 day."
+msgstr ""
+
+#: biller/templates/herald_common/html/base.html:130
+#: biller/templates/herald_common/text/base.txt:3
+#, python-format
+msgctxt "common"
+msgid "Dear %(salutation_name)s,"
+msgstr "Dear %(salutation_name)s,"
+
+#: biller/templates/herald_common/html/base.html:168
+msgctxt "common"
+msgid "Postal address"
+msgstr "Postal address"
+
+#: biller/templates/herald_common/html/base.html:173
+msgctxt "common"
+msgid "Reg no."
+msgstr "Reg no."
+
+#: biller/templates/herald_common/html/base.html:174
+msgctxt "common"
+msgid "VAT-id"
+msgstr "VAT-id"
+
+#: biller/templates/herald_common/html/frequently_asked_questions.html:15
+#: biller/templates/herald_common/text/base.txt:9
+msgctxt "common"
+msgid "Questions about the purchase, delivery or returns?"
+msgstr ""
+"Questions about orders, invoices, credit notes, deliveries or returns?:"
+
+#: biller/templates/herald_common/html/frequently_asked_questions.html:25
+#, python-format
+msgctxt "common"
+msgid ""
+"Please contact %(seller_name)s via <a target=\"_blank\" style=\"color: "
+"#47A09A;\" href=\"mailto:%(seller_email)s\">%(seller_email)s</a> or call <a "
+"target=\"_blank\" style=\"color: #47A09A;\" href=\"tel:%(seller_telephone)s"
+"\">%(seller_telephone)s</a> so they can be of further assistance."
+msgstr ""
+"Please contact %(seller_name)s via <a target=\"_blank\" style=\"color: "
+"#47A09A;\" href=\"mailto:%(seller_email)s\">%(seller_email)s</a> or call <a "
+"target=\"_blank\" style=\"color: #47A09A;\" href=\"tel:%(seller_telephone)s"
+"\">%(seller_telephone)s</a> so they can be of further assistance."
+
+#: biller/templates/herald_common/html/frequently_asked_questions.html:41
+#: biller/templates/herald_common/text/base.txt:14
+msgctxt "common"
+msgid "Questions about payments and reminders?"
+msgstr "Questions about payments and reminders?"
+
+#: biller/templates/herald_common/html/frequently_asked_questions.html:51
+#, python-format
+msgctxt "common"
+msgid ""
+"Check <a target=\"_blank\" style=\"color: #47A09A;\" href="
+"\"%(biller_customer_support_url)s\">Biller helpdesk</a> for the most common "
+"questions or contact us via <a target=\"_blank\" style=\"color: #47A09A;\" "
+"href=\"mailto:%(biller_customer_support_email)s\">"
+"%(biller_customer_support_email)s</a> or <a target=\"_blank\" style=\"color: "
+"#47A09A;\" href=\"tel:%(biller_phone_number)s\">%(biller_phone_number)s</a>."
+msgstr ""
+"Check <a target=\"_blank\" style=\"color: #47A09A;\" href="
+"\"%(biller_customer_support_url)s\">Biller helpdesk</a> for the most common "
+"questions or contact us via <a target=\"_blank\" style=\"color: #47A09A;\" "
+"href=\"mailto:%(biller_customer_support_email)s\">"
+"%(biller_customer_support_email)s</a> or <a target=\"_blank\" style=\"color: "
+"#47A09A;\" href=\"tel:%(biller_phone_number)s\">%(biller_phone_number)s</a>."
+
+#: biller/templates/herald_common/html/frequently_asked_questions.html:67
+#, python-format
+msgctxt "common"
+msgid ""
+"The <a target=\"_blank\" style=\"color: #47A09A;\" href="
+"\"%(biller_terms_and_conditions_url)s\">general payment conditions</a> of "
+"%(biller_company_name)s apply to all payments."
+msgstr ""
+"The <a target=\"_blank\" style=\"color: #47A09A;\" href="
+"\"%(biller_terms_and_conditions_url)s\">general payment conditions</a> of "
+"%(biller_company_name)s apply to all payments."
+
+#: biller/templates/herald_common/text/base.txt:10
+#, python-format
+msgctxt "common"
+msgid ""
+"Please contact %(contact_name)s via %(contact_email)s or call "
+"%(contact_telephone)s so they can be of further assistance."
+msgstr ""
+"Please contact %(contact_name)s via %(contact_email)s or call "
+"%(contact_telephone)s so they can be of further assistance."
+
+#: biller/templates/herald_common/text/base.txt:15
+#, python-format
+msgctxt "common"
+msgid ""
+"Check %(biller_customer_support_url)s for the most common questions or "
+"contact us via %(biller_customer_support_email)s or %(biller_phone_number)s."
+msgstr ""
+"Check %(biller_customer_support_url)s for the most common questions or "
+"contact us via %(biller_customer_support_email)s or %(biller_phone_number)s."
+
+#: biller/templates/herald_common/text/base.txt:19
+#, python-format
+msgctxt "common"
+msgid ""
+"The general payment conditions of %(biller_company_name)s "
+"(%(biller_terms_and_conditions_url)s) apply to all payments."
+msgstr ""
+"The general payment conditions of %(biller_company_name)s "
+"(%(biller_terms_and_conditions_url)s) apply to all payments."
+
+#: biller/tests/order_request/test_views_post.py:444
+#, python-format
+msgid "Value %(value)r is not a valid choice."
+msgstr ""
+
+#: biller/tests/selenium_tests/test_end_to_end_happy_path.py:124
+#: biller/tests/selenium_tests/test_hpp.py:67
+#: biller/tests/selenium_tests/test_hpp.py:131
+#: biller/tests/selenium_tests/test_hpp.py:190
+#: biller/tests/selenium_tests/test_hpp.py:242
+#, python-format
+msgid ""
+"To make sure it is really you, we’ve sent a code to <span class="
+"\"otp_email_address\">%(email)s</span>"
+msgstr ""
+"To make sure it is really you, we’ve sent a code to <span class="
+"\"otp_email_address\">%(email)s</span>"
+
+#: biller/tests/selenium_tests/test_end_to_end_happy_path.py:170
+msgid "Purchase is approved!"
+msgstr "Purchase is approved!"
+
+#: biller/tests/selenium_tests/test_end_to_end_happy_path.py:171
+msgid "Unfortunately, we are unable to approve this purchase."
+msgstr ""
+
+#: biller/tests/selenium_tests/test_hpp.py:98
+msgid "Unable to find your company"
+msgstr ""
+
+#: biller/tests/selenium_tests/test_hpp.py:213
+msgid "Email verification failed"
+msgstr ""
+
+#: biller/tests/selenium_tests/test_hpp.py:257
+msgid "- Done!"
+msgstr ""
+
+#: biller/urls2/parts/token.py:17
+msgid "Create token"
+msgstr ""
+
+#: biller/urls2/parts/token.py:19
+msgid ""
+"In order to use Biller API you need a token for authorisation.<br>Create "
+"token request returns a token, which will expire in 2 hours. "
+msgstr ""
+
+#: biller/urls2/parts/token.py:22 biller/urls2/parts/token.py:36
+msgid "JWT Tokens"
+msgstr ""
+
+#: biller/urls2/parts/token.py:32
+msgid "Refresh token"
+msgstr ""
+
+#: biller/urls2/parts/token.py:34
+msgid ""
+"After obtaining a token from the [Create token](#operation/"
+"v1_api_token_create) endpoint, the expire time of this token can be extended "
+"to 24 hours using the `Refresh token` endpoint."
+msgstr ""
+
+#: biller/webhook/models.py:8
+msgid "UUID of referring object we send webhook"
+msgstr ""
+
+#: biller/webhook/models.py:11
+msgid "Object type"
+msgstr ""
+
+#: biller/webhook/models.py:12
+msgid "Url we sent webhook to"
+msgstr ""

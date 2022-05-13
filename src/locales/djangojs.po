@@ -1,0 +1,200 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-10 13:31+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: biller/order_request/static/order_request/js/order_request_main.js:22
+msgid "A technical error occurred. Please try again later."
+msgstr ""
+
+#: biller/order_request/static/order_request/js/order_request_main.js:24
+msgid ""
+"Biller is not able to proceed with your order right now, you can try again "
+"later or choose another payment method."
+msgstr ""
+"Biller is not able to proceed with your order right now, you can try again "
+"later or choose another payment method."
+
+#: biller/order_request/static/order_request/js/order_request_main.js:29
+msgid "Unfortunately, we are unable to approve this purchase."
+msgstr ""
+
+#: biller/order_request/static/order_request/js/order_request_main.js:31
+msgid ""
+"Please choose another payment method to continue.<br />To learn more about "
+"this decision, you can visit the Biller <a href='https://biller.freshdesk."
+"com/' target='_blank'>Help center</a>."
+msgstr ""
+
+#: biller/order_request/static/order_request/js/order_request_main.js:37
+msgid "You’ve tried too many times."
+msgstr ""
+
+#: biller/order_request/static/order_request/js/order_request_main.js:39
+msgid ""
+"Please try again with a different email address, or use another payment "
+"method."
+msgstr ""
+
+#: biller/order_request/static/order_request/js/order_request_main.js:43
+msgid "Unable to find your company"
+msgstr ""
+
+#: biller/order_request/static/order_request/js/order_request_main.js:44
+msgid "We were unable to find any companies matching your request."
+msgstr ""
+
+#: biller/order_request/static/order_request/js/order_request_main.js:47
+msgid "No company selected"
+msgstr ""
+
+#: biller/order_request/static/order_request/js/order_request_main.js:48
+msgid "Please select your company from list."
+msgstr ""
+
+#: biller/order_request/static/order_request/js/order_request_main.js:51
+msgid "Purchase is approved!"
+msgstr ""
+
+#: biller/order_request/static/order_request/js/order_request_main.js:53
+#, javascript-format
+msgid ""
+"Your purchase has been accepted. You will be redirected back to %s shortly."
+msgstr ""
+"Your purchase has been accepted. You will be redirected back to %s shortly."
+
+#: biller/order_request/static/order_request/js/order_request_main.js:58
+msgid "Order canceled"
+msgstr "Order canceled"
+
+#: biller/order_request/static/order_request/js/order_request_main.js:59
+msgid "The order has been canceled."
+msgstr "The order has been cancelled."
+
+#: biller/order_request/static/order_request/js/order_request_main.js:62
+msgid "Order not found."
+msgstr ""
+
+#: biller/order_request/static/order_request/js/order_request_main.js:63
+msgid "The requested order was not found."
+msgstr ""
+
+#: biller/order_request/static/order_request/js/order_request_main.js:66
+msgid "Order request timeout."
+msgstr ""
+
+#: biller/order_request/static/order_request/js/order_request_main.js:68
+msgid ""
+"Your order request has timed out. Please resubmit your purchase from the "
+"webshop."
+msgstr ""
+"Your order request has timed out. Please resubmit your purchase from the "
+"webshop."
+
+#: biller/order_request/static/order_request/js/order_request_main.js:72
+msgid "Input error."
+msgstr ""
+
+#: biller/order_request/static/order_request/js/order_request_main.js:73
+msgid "Please input only digits."
+msgstr ""
+
+#: biller/order_request/static/order_request/js/order_request_main.js:76
+msgid "Entered OTP is invalid."
+msgstr ""
+
+#: biller/order_request/static/order_request/js/order_request_main.js:77
+msgid "The one time password you’ve entered is invalid."
+msgstr "The one time password you’ve entered is invalid."
+
+#: biller/order_request/static/order_request/js/order_request_main.js:80
+msgid "OTP validation max retries exceeded."
+msgstr ""
+
+#: biller/order_request/static/order_request/js/order_request_main.js:81
+msgid "Please resubmit your purchase from the webshop."
+msgstr ""
+
+#: biller/order_request/static/order_request/js/order_request_main.js:84
+msgid "Pasted OTP is invalid"
+msgstr ""
+
+#: biller/order_request/static/order_request/js/order_request_main.js:85
+msgid "Please paste a valid one time password."
+msgstr "Please paste a valid one time password."
+
+#: biller/order_request/static/order_request/js/order_request_main.js:88
+msgid "Email verification failed"
+msgstr ""
+
+#: biller/order_request/static/order_request/js/order_request_main.js:89
+msgid "The entered one-time password is incorrect."
+msgstr "The entered one-time password is incorrect."
+
+#: biller/order_request/static/order_request/js/order_request_main.js:92
+msgid "The data supplied for OTP verification is invalid."
+msgstr ""
+
+#: biller/order_request/static/order_request/js/order_request_main.js:93
+#: biller/order_request/static/order_request/js/order_request_main.js:97
+msgid "Please go back to the webshop and try again."
+msgstr ""
+
+#: biller/order_request/static/order_request/js/order_request_main.js:96
+msgid "The email for OTP verification is invalid."
+msgstr ""
+
+#: biller/order_request/static/order_request/js/order_request_main.js:105
+msgid "Please confirm your company"
+msgstr ""
+
+#: biller/order_request/static/order_request/js/order_request_main.js:106
+msgid "Select your company from the list"
+msgstr "Select your company from the list"
+
+#: biller/order_request/static/order_request/js/order_request_main.js:107
+msgid ""
+"If this is not your company, please make sure you’ve entered the correct "
+"information in the shop."
+msgstr ""
+
+#: biller/order_request/static/order_request/js/order_request_main.js:108
+msgid "We’ve found multiple companies matching the information you provided."
+msgstr "We’ve found multiple companies matching the information you provided."
+
+#: biller/order_request/static/order_request/js/order_request_main.js:111
+msgid "Back to the webshop"
+msgstr ""
+
+#: biller/order_request/static/order_request/js/order_request_main.js:115
+msgid "Please select the buying company."
+msgstr ""
+
+#: biller/order_request/static/order_request/js/order_request_main.js:116
+msgid "OK"
+msgstr ""
+
+#: biller/order_request/static/order_request/js/order_request_main.js:120
+msgid "Company results"
+msgstr ""
+
+#: biller/order_request/static/order_request/js/order_request_main.js:209
+msgid "Select"
+msgstr ""
+
+#: biller/order_request/static/order_request/js/order_request_main.js:234
+msgid "Confirm"
+msgstr ""
+
+#: biller/order_request/static/order_request/js/order_request_main.js:271
+msgid "Show more companies"
+msgstr ""
