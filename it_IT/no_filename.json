@@ -1,0 +1,3 @@
+{
+    "test_variable": "Scritto nei log: {{{ error.message }}}. Il processo ha richiesto: {{{ tempo }}}."
+}
