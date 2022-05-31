@@ -1,30 +1,30 @@
 /*Please don't change the name of the application*/
-"app.name" = "TODO List";
+"app.name" = "REPO_TODO List";
 
 /* Insert Element menu item */
-"Insert Element" = "Insert Element";
+"Insert Element" = "REPO_Insert Element";
 /* Error string used for unknown error types. */
-"ErrorString_1" = "An unknown error occurred.";
+"ErrorString_1" = "REPO_An unknown error occurred.";
 
 /* Menu item to make the current document plain text */
-"Make Plain Text" = "Make Plain Text";
+"Make Plain Text" = "REPO_Make Plain Text";
 /* Menu item to make the current document rich text */
-"Make Rich Text" = "Make Rich Text";
+"Make Rich Text" = "REPO_Make Rich Text";
 
 /*Fuzzy*/
-"app.login.text" = "Enter your credentials below to login";
-"app.login.message.success" = "Login successful !\nWelcome back %s !";
-"app.login.message.error" = "Make sure you've entered the correct username and password";
-"app.login.password.forget" = "I forgot my password";
-"app.login.password.reset" = "Enter your address in the field below. A new password will be sent to your inbox.";
-"app.register.text" = "Sign up for free! No credit card required!";
-"app.register.message.success" = "Thank you for signing up !\nPlease check your email address to activate your account.";
-"app.register.message.error" = "We were unable to sign you up.\nPlease correct the marked fields.";
-"app.menu.terms" = "Terms and conditions";
+"app.login.text" = "REPO_Enter your credentials below to login";
+"app.login.message.success" = "REPO_Login successful !\nWelcome back %s !";
+"app.login.message.error" = "REPO_Make sure you've entered the correct username and password";
+"app.login.password.forget" = "REPO_I forgot my password";
+"app.login.password.reset" = "REPO_Enter your address in the field below. A new password will be sent to your inbox.";
+"app.register.text" = "REPO_Sign up for free! No credit card required!";
+"app.register.message.success" = "REPO_Thank you for signing up !\nPlease check your email address to activate your account.";
+"app.register.message.error" = "REPO_We were unable to sign you up.\nPlease correct the marked fields.";
+"app.menu.terms" = "REPO_Terms and conditions";
 
 /*form_label*/
-"app.login.label" = "Username";
-"app.users.active" = "Just one user online";
+"app.login.label" = "REPO_Username";
+"app.users.active" = "REPO_Just one user online";
 
 /*form_label*/
-"app.login.pass" = "Password";
+"app.login.pass" = "REPO_Password";
