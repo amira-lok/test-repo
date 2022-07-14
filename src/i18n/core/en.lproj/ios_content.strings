@@ -27,4 +27,4 @@
 "app.users.active" = "REPO_Just one user online";
 
 /*form_label*/
-"app.login.pass" = "REPO_Password";
+"app.login.pass" = "Password";
