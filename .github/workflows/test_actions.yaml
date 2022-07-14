@@ -1,1 +1,8 @@
-
+name: test_workflow
+on: [push]
+jobs:
+  my_job:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - run: echo “My first workflow“
