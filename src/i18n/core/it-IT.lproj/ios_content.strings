@@ -1,0 +1,17 @@
+"ErrorString_1" = "REPO_Si è verificato un errore sconosciuto.";
+"Insert Element" = "REPO_Inserisci elemento";
+"Make Plain Text" = "REPO_Crea testo normale";
+"Make Rich Text" = "REPO_Crea Rich Text";
+"app.login.label" = "REPO_Nome utente";
+"app.login.message.error" = "REPO_Assicurati di aver inserito il nome utente e la password corretti";
+"app.login.message.success" = "REPO_Accesso riuscito!\nBentornato %s !";
+"app.login.pass" = "Parola d'ordine";
+"app.login.password.forget" = "REPO_Ho dimenticato la password";
+"app.login.password.reset" = "REPO_Inserisci il tuo indirizzo nel campo sottostante. Una nuova password verrà inviata alla tua casella di posta.";
+"app.login.text" = "REPO_Inserisci le tue credenziali qui sotto per accedere";
+"app.menu.terms" = "REPO_Termini e condizioni";
+"app.name" = "La mia lista";
+"app.register.message.error" = "REPO_Non siamo riusciti a iscriverti.\nSi prega di correggere i campi contrassegnati.";
+"app.register.message.success" = "REPO_Grazie per esserti registrato!\nControlla il tuo indirizzo email per attivare il tuo account.";
+"app.register.text" = "REPO_Registrati gratuitamente! Nessuna carta di credito richiesta!";
+"app.users.active" = "REPO_Solo un utente online";
