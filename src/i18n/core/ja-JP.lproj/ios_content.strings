@@ -1,0 +1,17 @@
+"ErrorString_1" = "REPO_不明なエラーが発生しました。";
+"Insert Element" = "REPO_Insert 要素";
+"Make Plain Text" = "REPO_Make Plain Text";
+"Make Rich Text" = "REPO_Make Rich Text";
+"app.login.label" = "REPO_ユーザー名";
+"app.login.message.error" = "REPO_正しいユーザー名とパスワードを入力したことを確認してください";
+"app.login.message.success" = "REPO_Login 成功!\nおかえり%s !";
+"app.login.pass" = "パスワード";
+"app.login.password.forget" = "REPO_パスワードを忘れた";
+"app.login.password.reset" = "REPO_下のフィールドに住所を入力してください。 新しいパスワードが受信トレイに送信されます。";
+"app.login.text" = "REPO_ログインするには、以下に資格情報を入力してください";
+"app.menu.terms" = "REPO_利用規約";
+"app.name" = "私のリスト";
+"app.register.message.error" = "REPO_サインアップできませんでした。\nマークされたフィールドを修正してください。";
+"app.register.message.success" = "REPO_ご登録ありがとうございます。\nアカウントを有効にするには、メールアドレスを確認してください。";
+"app.register.text" = "REPO_無料登録！ クレジットカード不要！";
+"app.users.active" = "REPO_たった 1 人のユーザーがオンライン";
