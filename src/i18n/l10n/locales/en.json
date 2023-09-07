@@ -3,5 +3,6 @@
 	"accpetBtn" : "Accept",
 	"removeBtn" : "Delete",
 	"quitBtn"   : "Quit",
-	"addBtn"    : "Add item"
+	"addBtn"    : "Add item",
+	"test_cp" : "This contains a double escaped non breaking space: &amp;nbsp; before this position"
 }
