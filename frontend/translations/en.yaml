@@ -4291,8 +4291,7 @@ coachPanel:
         noData: "No data available"
         coreEnterprise:
           title: "Core Enterprise Sessions Only - Last 12 Months"
-          subtitle: "Note that these do not apply to Care-only coaches. You can find more details on these metrics <a href=\"https://support.betterup.com/hc/en-us/articles/5396534563355-Insights-Panel\"
-      target=\"_blank\">here</a>. Metrics are no longer tied to session rates."
+          subtitle: "Note that these do not apply to Care-only coaches. You can find more details on these metrics <a href=\"https://support.betterup.com/hc/en-us/articles/5396534563355-Insights-Panel\" target=\"_blank\">here</a>. Metrics are no longer tied to session rates."
           noDataAvailableDesicripion: "See \"No data available\"? Click
           <a href=\"https://support.betterup.com/hc/en-us/articles/5392699232283\"
           target=\"_blank\">here</a> to learn why you’re seeing this."
