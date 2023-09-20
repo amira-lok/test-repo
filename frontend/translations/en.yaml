@@ -12,11 +12,6 @@ accountCreation:
     labelPassword: "Set your password"
     passwordHint: "8 character minimum with a mix of numbers, uppercase, and lowercase
       letters"
-    termsAndConditionsLabel: "By checking this box you agree to the collection of
-      information as fully described in our <a href=\"https://www.betterup.co/privacy\"
-      class=\"underline\" target=\"_blank\" rel=\"noopener noreferrer\">Privacy Policy</a>
-      and <a href=\"https://www.betterup.co/en-us/acceptable-use-policy\" target=\"_blank\"
-      rel=\"noopener noreferrer\" class=\"underline\">Acceptable Use Policy</a>"
   care:
     intro:
       title: "Welcome to BetterUp Care"
