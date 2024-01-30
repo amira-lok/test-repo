@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="accpetBtn">Aceptar ahora</string>
+  <string name="cancelBtn">Cancelar ahora</string>
+  <string name="deleteBtn">Borrar</string>
+  <string name="logInBtn">Iniciar sesión</string>
+  <string name="removeBtn">Eliminar</string>
+</resources>
