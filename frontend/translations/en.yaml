@@ -1,7 +1,7 @@
 ---
 accountCreation:
   breather:
-    continueButton: "Continue"
+    continueButton: "Continue now"
     cancelButton: "Cancel Event"
   planIntro:
     title: "Hey {name}, let’s start building your weekly practice"
