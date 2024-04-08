@@ -3,6 +3,7 @@ accountCreation:
   breather:
     continueButton: "Continue now fooo"
     cancelButton: "Cancel Event"
+    optionsButton: "Options"
   planIntro:
     title: "Hey {name}, let’s start building your weekly practice"
     body: "Your growth is important, and we want to get it right. To give you the
