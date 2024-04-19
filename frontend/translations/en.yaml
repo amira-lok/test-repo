@@ -1,7 +1,7 @@
 ---
 accountCreation:
   breather:
-    continueButton: "Continue now fooo"
+    continueButton: "Continue now fooo. More content."
     cancelButton: "Cancel Event"
     optionsButton: "Options"
   planIntro:
