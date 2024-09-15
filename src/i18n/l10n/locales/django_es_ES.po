@@ -1,0 +1,2330 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: lokalise.com\n"
+"Project-Id-Version: Github and GitLab test (segmentation)\n"
+"PO-Revision-Date: 2022-12-15 07:02\n"
+"Last-Translator: lokalise.com\n"
+"Language-Team: lokalise.com\n\n"
+"Language: es_ES\n"
+
+#, fuzzy
+msgctxt "settlement"
+msgid " * item(s) were already settled before, processing refunds only"
+msgstr ""
+
+#, fuzzy
+msgctxt "settlement"
+msgid " ** number of order's refunds"
+msgstr ""
+
+msgctxt "settlement"
+msgid "%% per transaction"
+msgstr "%% por transacción"
+
+msgctxt "settlement"
+msgid "%(counter)s Transaction"
+msgid_plural "%(counter)s Transactions"
+msgstr[0] "%(counter)s Transacción"
+msgstr[1] "%(counter)s Transacciones"
+
+msgctxt "capturing"
+msgid "%(seller_brand)s, registered as %(seller_company)s has given %(biller_company_name)s the right to collect the claim."
+msgstr "%(seller_brand)s , registrado como %(seller_company)s , autorizó %(biller_company_name)s a cobrar la reclamación."
+
+msgctxt "capturing"
+msgid "%(seller_brand)s, registered as %(seller_company)s, has authorised %(biller_company_name)s to collect the claim."
+msgstr "%(seller_brand)s , registrado como %(seller_company)s , autorizó %(biller_company_name)s a cobrar la reclamación."
+
+msgctxt "payment_request"
+msgid "%(seller_company)s has given %(biller_company_name)s the right to collect the claim."
+msgstr "%(seller_company)s ha otorgado %(biller_company_name)s el derecho a cobrar la reclamación."
+
+msgctxt "refund"
+msgid "%(seller_company)s has given %(biller_company_name)s the right to collect the claim."
+msgstr "%(seller_company)s ha otorgado %(biller_company_name)s el derecho a cobrar la reclamación."
+
+#, fuzzy
+msgctxt "hpp"
+msgid "- Done!"
+msgstr ""
+
+#, fuzzy
+msgid "- Done!"
+msgstr ""
+
+#, fuzzy
+msgid "API version"
+msgstr ""
+
+#, fuzzy
+msgid "Acceptance Variables"
+msgstr ""
+
+#, fuzzy
+msgid "Accepted currencies"
+msgstr ""
+
+#, fuzzy
+msgid "Account name"
+msgstr ""
+
+#, fuzzy
+msgid "Account number"
+msgstr ""
+
+msgid "Action required: 2nd payment reminder for your order at %(seller_brand)s"
+msgstr "Acción requerida: segundo recordatorio de pago de su pedido en %(seller_brand)s"
+
+msgid "Action required: Last payment reminder for your order at %(seller_brand)s"
+msgstr "Acción requerida: último recordatorio de pago de su pedido en %(seller_brand)s"
+
+msgid "Action required: Pay now to avoid contact from a collection agency for your order at %(seller_brand)s"
+msgstr "Acción requerida: pague ahora para evitar el contacto de una agencia de cobranza para su pedido en %(seller_brand)s"
+
+#, fuzzy
+msgid "Additional request data"
+msgstr ""
+
+#, fuzzy
+msgid "Addresses in %(country)s require a valid postal code"
+msgstr ""
+
+#, fuzzy
+msgid "After obtaining a token from the [Create token](#operation/v1_api_token_create) endpoint, the expire time of this token can be extended to 24 hours using the `Refresh token` endpoint."
+msgstr ""
+
+msgctxt "hpp"
+msgid "Alert icon"
+msgstr "Icono de alerta"
+
+#, fuzzy
+msgid "All orders for this seller profile have been already settled"
+msgstr ""
+
+msgid "Amount"
+msgstr "Monto"
+
+msgctxt "payment_request"
+msgid "Amount"
+msgstr "Monto"
+
+#, fuzzy
+msgid "Amount excl. tax (total for the quantity given)"
+msgstr ""
+
+#, fuzzy
+msgid "Amount incl. tax (total for the quantity given)"
+msgstr ""
+
+#, fuzzy
+msgid "Apartment, suite, unit or building."
+msgstr ""
+
+#, fuzzy
+msgid "Applied Decision Rules"
+msgstr ""
+
+#, fuzzy
+msgid "Applied decision rules"
+msgstr ""
+
+msgctxt "hpp"
+msgid "Are you sure you want to cancel this order and return to the webshop?"
+msgstr "¿Está seguro de que desea cancelar este pedido y volver a la tienda web?"
+
+#, fuzzy
+msgid "At least one address for company should be main"
+msgstr ""
+
+msgctxt "payment_request"
+msgid "Attn: %(buyer_first_name)s %(buyer_last_name)s"
+msgstr "Atención: %(buyer_first_name)s %(buyer_last_name)s"
+
+msgctxt "refund"
+msgid "Attn: %(buyer_first_name)s %(buyer_last_name)s"
+msgstr "Atención: %(buyer_first_name)s %(buyer_last_name)s"
+
+#, fuzzy
+msgid "Automatically matched?"
+msgstr ""
+
+msgctxt "common"
+msgid "Bank transfer details"
+msgstr "Detalles de la transferencia bancaria"
+
+#, fuzzy
+msgid "Belgian French"
+msgstr ""
+
+msgctxt "common"
+msgid "Beneficiary"
+msgstr "Beneficiario"
+
+msgctxt "payment_request"
+msgid "Beneficiary"
+msgstr "Beneficiario"
+
+#, fuzzy
+msgid "Biller - Payment page"
+msgstr ""
+
+#, fuzzy
+msgid "Biller - email verification"
+msgstr ""
+
+msgctxt "refund"
+msgid "Biller credit note"
+msgstr "Notificación de reembolso del facturador"
+
+#, fuzzy
+msgid "Biller fees"
+msgstr ""
+
+msgctxt "settlement"
+msgid "Biller invoice"
+msgstr "Factura del facturador"
+
+msgid "Biller payment request"
+msgstr "Solicitud de pago del facturador"
+
+msgid "Billing address"
+msgstr "Dirección de Envio"
+
+msgctxt "hpp"
+msgid "Billing address"
+msgstr "Dirección de Envio"
+
+#, fuzzy
+msgid "Billing address city"
+msgstr ""
+
+#, fuzzy
+msgid "Billing address country"
+msgstr ""
+
+#, fuzzy
+msgid "Billing address house number"
+msgstr ""
+
+#, fuzzy
+msgid "Billing address house number suffix"
+msgstr ""
+
+#, fuzzy
+msgid "Billing address postal code/Zip-code"
+msgstr ""
+
+#, fuzzy
+msgid "Billing address region"
+msgstr ""
+
+#, fuzzy
+msgid "Billing address street"
+msgstr ""
+
+#, fuzzy
+msgid "Billing address street address 1"
+msgstr ""
+
+#, fuzzy
+msgid "Billing address street address 2"
+msgstr ""
+
+#, fuzzy
+msgid "British English"
+msgstr ""
+
+msgid "Business invoice"
+msgstr "Factura comercial"
+
+msgid "Business invoice, net payment term of %(num)s days"
+msgstr "Factura comercial, plazo de pago neto de %(num)s días"
+
+#, fuzzy
+msgid "Buyer"
+msgstr ""
+
+#, fuzzy
+msgid "Buyer company name"
+msgstr ""
+
+#, fuzzy
+msgid "Buyer's company name"
+msgstr ""
+
+#, fuzzy
+msgid "Buyers"
+msgstr ""
+
+msgctxt "hpp"
+msgid "By continuing, I confirm that I have read and agreed to Biller's <a href=\"https://biller.ai/wp-content/uploads/2022/01/Privacy-statement-Biller-version-301221.pdf\" target=\"_blank\">Privacy Notice</a> and I agree to their <a href=%(terms_and_conditions_link)s target=\"_blank\">Terms & Conditions</a>."
+msgstr "Al continuar, confirmo que he leído y acepto el <a href=\"https://biller.ai/wp-content/uploads/2022/01/Privacy-statement-Biller-version-301221.pdf\" target=\"_blank\"> Aviso de privacidad </a> y acepto sus <a href=%(terms_and_conditions_link)s target=\"_blank\"> Términos y condiciones </a> ."
+
+#, fuzzy
+msgid "Calculation time in ms"
+msgstr ""
+
+msgctxt "hpp"
+msgid "Cancel order"
+msgstr "Cancelar orden"
+
+msgctxt "hpp"
+msgid "Cancel order and return to webshop"
+msgstr "Cancelar pedido y volver a la tienda web"
+
+msgid "Cancel the Order"
+msgstr "Cancelar orden"
+
+#, fuzzy
+msgid "Capture (part of) an accepted order to let Biller know that you have shipped the goods, and Biller will send a payment request to the Buyer. Only the captured parts of orders can be settled (paid out) and/or [refunded](#operation/v1_api_orders_refund_create)."
+msgstr ""
+
+msgid "Capture the Order"
+msgstr "capturar la orden"
+
+msgctxt "common"
+msgid "Check %(biller_customer_support_url)s for the most common questions or contact us via %(biller_customer_support_email)s or %(biller_phone_number)s."
+msgstr "Consulte %(biller_customer_support_url)s para conocer las preguntas más comunes o comuníquese con nosotros a través de %(biller_customer_support_email)s o %(biller_phone_number)s ."
+
+msgctxt "common"
+msgid "Check <a target=\"_blank\" style=\"color: #47A09A;\" href=\"%(biller_customer_support_url)s\">Biller helpdesk</a> for the most common questions or contact us via <a target=\"_blank\" style=\"color: #47A09A;\" href=\"mailto:%(biller_customer_support_email)s\">%(biller_customer_support_email)s</a> or <a target=\"_blank\" style=\"color: #47A09A;\" href=\"tel:%(biller_phone_number)s\">%(biller_phone_number)s</a>."
+msgstr "Marque <a target=\"_blank\" style=\"color: #47A09A;\" href=\"%(biller_customer_support_url)s\"> Servicio de asistencia para facturadores </a> para las preguntas más comunes o contáctenos a través de <a target=\"_blank\" style=\"color: #47A09A;\" href=\"mailto:%(biller_customer_support_email)s\"> %(biller_customer_support_email)s </a> o <a target=\"_blank\" style=\"color: #47A09A;\" href=\"tel:%(biller_phone_number)s\"> %(biller_phone_number)s </a> ."
+
+#, fuzzy
+msgid "City"
+msgstr ""
+
+#, fuzzy
+msgid "Clear all filters"
+msgstr ""
+
+msgctxt "hpp"
+msgid "Close"
+msgstr "Cerca"
+
+#, fuzzy
+msgid "Closed at"
+msgstr ""
+
+#, fuzzy
+msgid "Code Version"
+msgstr ""
+
+msgctxt "settlement"
+msgid "Comissions"
+msgstr "Comisiones"
+
+#, fuzzy
+msgid "Commission Amount"
+msgstr ""
+
+#, fuzzy
+msgid "Companies"
+msgstr ""
+
+#, fuzzy
+msgid "Company"
+msgstr ""
+
+#, fuzzy
+msgid "Company CreditsafeUID"
+msgstr ""
+
+#, fuzzy
+msgid "Company VAT number"
+msgstr ""
+
+#, fuzzy
+msgid "Company account"
+msgstr ""
+
+#, fuzzy
+msgid "Company accounts"
+msgstr ""
+
+#, fuzzy
+msgid "Company address"
+msgstr ""
+
+#, fuzzy
+msgid "Company addresses"
+msgstr ""
+
+#, fuzzy
+msgid "Company brand name"
+msgstr ""
+
+#, fuzzy
+msgid "Company chamber of commerce code"
+msgstr ""
+
+#, fuzzy
+msgid "Company has no main addresses left"
+msgstr ""
+
+#, fuzzy
+msgid "Company registration number (at chamber of commerce)"
+msgstr ""
+
+#, fuzzy
+msgid "Company website"
+msgstr ""
+
+#, fuzzy
+msgctxt "hpp"
+msgid "Confirm"
+msgstr ""
+
+msgctxt "hpp"
+msgid "Contact details"
+msgstr "Detalles de contacto"
+
+#, fuzzy
+msgid "Contact email owner"
+msgstr ""
+
+#, fuzzy
+msgid "Correction Amount"
+msgstr ""
+
+msgctxt "settlement"
+msgid "Corrections (%(comment)s)"
+msgstr "Correcciones ( %(comment)s )"
+
+#, fuzzy
+msgid "Create Settlement"
+msgstr ""
+
+#, fuzzy
+msgid "Create a new OrderRequest"
+msgstr ""
+
+#, fuzzy
+msgid "Create token"
+msgstr ""
+
+#, fuzzy
+msgid "Created At"
+msgstr ""
+
+#, fuzzy
+msgid "Created at"
+msgstr ""
+
+#, fuzzy
+msgid "Created by sendgrid at"
+msgstr ""
+
+#, fuzzy
+msgid "Credit Decision"
+msgstr ""
+
+#, fuzzy
+msgid "Credit Decisions"
+msgstr ""
+
+#, fuzzy
+msgid "Credit Report"
+msgstr ""
+
+#, fuzzy
+msgid "Credit Reports"
+msgstr ""
+
+msgctxt "refund"
+msgid "Credit note for invoice with order number"
+msgstr "Notificación de reembolso de factura con número de pedido"
+
+msgctxt "common"
+msgid "Credited"
+msgstr "acreditado"
+
+#, fuzzy
+msgid "CreditsafeUID"
+msgstr ""
+
+#, fuzzy
+msgid "Currency"
+msgstr ""
+
+#, fuzzy
+msgid "Currency code."
+msgstr ""
+
+#, fuzzy
+msgid "Currency symbol."
+msgstr ""
+
+#, fuzzy
+msgid "Customer support"
+msgstr ""
+
+#, fuzzy
+msgid "Customer support email"
+msgstr ""
+
+#, fuzzy
+msgid "Customer support phone number"
+msgstr ""
+
+#, fuzzy
+msgid "Danish"
+msgstr ""
+
+msgctxt "payment_request"
+msgid "Dear %(buyer_first_name)s,"
+msgstr "Estimado %(buyer_first_name)s ,"
+
+msgctxt "refund"
+msgid "Dear %(buyer_first_name)s,"
+msgstr "Estimado %(buyer_first_name)s ,"
+
+msgctxt "common"
+msgid "Dear %(salutation_name)s,"
+msgstr "Estimado %(salutation_name)s ,"
+
+#, fuzzy
+msgid "Debt collection handover sent at"
+msgstr ""
+
+#, fuzzy
+msgid "Debt collection handover sent?"
+msgstr ""
+
+#, fuzzy
+msgid "Delivery failure reason"
+msgstr ""
+
+#, fuzzy
+msgid "Deprecated! Please use the Update the Invoice endpoint."
+msgstr ""
+
+msgctxt "payment_request"
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgctxt "refund"
+msgid "Description"
+msgstr "Descripción"
+
+#, fuzzy
+msgid "Device Details"
+msgstr ""
+
+#, fuzzy
+msgid "Device details"
+msgstr ""
+
+#, fuzzy
+msgctxt "payment_request"
+msgid "Discount"
+msgstr ""
+
+#, fuzzy
+msgctxt "refund"
+msgid "Discount"
+msgstr ""
+
+#, fuzzy
+msgid "Discount (JSON)"
+msgstr ""
+
+#, fuzzy
+msgctxt "payment_request"
+msgid "Discount VAT"
+msgstr ""
+
+#, fuzzy
+msgid "Discount amount (cents) excluding tax."
+msgstr ""
+
+#, fuzzy
+msgid "Discount amount (cents) including tax."
+msgstr ""
+
+#, fuzzy
+msgid "Discount amount excl. tax"
+msgstr ""
+
+#, fuzzy
+msgid "Discount amount incl. tax"
+msgstr ""
+
+#, fuzzy
+msgid "Discount amount tax"
+msgstr ""
+
+#, fuzzy
+msgid "Discount description"
+msgstr ""
+
+#, fuzzy
+msgid "Discount description to be displayed, for example: \"10% discount\"."
+msgstr ""
+
+#, fuzzy
+msgid "Discount total_tax cannot be greater than the summed tax of order_lines."
+msgstr ""
+
+msgctxt "payment_request"
+msgid "Due date"
+msgstr "Fecha de vencimiento"
+
+msgctxt "refund"
+msgid "Due date"
+msgstr "Fecha de vencimiento"
+
+#, fuzzy
+msgid "Dunning"
+msgstr ""
+
+#, fuzzy
+msgid "Dunning flow"
+msgstr ""
+
+#, fuzzy
+msgid "Dunning flow choices. Multiple values allowed (comma separated). First value is used as default. Valid choices are: %(choices)s"
+msgstr ""
+
+#, fuzzy
+msgid "Duplicated product_id"
+msgstr ""
+
+#, fuzzy
+msgid "Dutch"
+msgstr ""
+
+#, fuzzy
+msgid "Email"
+msgstr ""
+
+#, fuzzy
+msgid "Email details"
+msgstr ""
+
+#, fuzzy
+msgid "Email verification failed"
+msgstr ""
+
+#, fuzzy
+msgid "English"
+msgstr ""
+
+#, fuzzy
+msgid "English (United Kingdom)"
+msgstr ""
+
+#, fuzzy
+msgid "Error details."
+msgstr ""
+
+#, fuzzy
+msgid "Event"
+msgstr ""
+
+#, fuzzy
+msgid "External (seller) credit note ID"
+msgstr ""
+
+#, fuzzy
+msgid "External (seller) invoice ID"
+msgstr ""
+
+#, fuzzy
+msgid "External order ID"
+msgstr ""
+
+#, fuzzy
+msgid "External order UID"
+msgstr ""
+
+#, fuzzy
+msgid "External product UID"
+msgstr ""
+
+#, fuzzy
+msgid "Failed to mark invoice as dispute refund."
+msgstr ""
+
+#, fuzzy
+msgid "Failed to mark invoice as dispute write-off."
+msgstr ""
+
+#, fuzzy
+msgid "Failed to mark invoice as paid."
+msgstr ""
+
+#, fuzzy
+msgid "Failed to mark invoice as settled."
+msgstr ""
+
+#, fuzzy
+msgid "Failed to mark invoice as unpaid."
+msgstr ""
+
+#, fuzzy
+msgid "Failed to mark invoice as unsettled."
+msgstr ""
+
+#, fuzzy
+msgid "Failed to mark invoice as write-off."
+msgstr ""
+
+#, fuzzy
+msgid "Failed to mark settlement as paid."
+msgstr ""
+
+#, fuzzy
+msgid "Failed to mark settlement as sent."
+msgstr ""
+
+#, fuzzy
+msgid "Failed to set invoice on-hold."
+msgstr ""
+
+#, fuzzy
+msgid "Failed to unset invoice on-hold."
+msgstr ""
+
+#, fuzzy
+msgid "Feedback label"
+msgstr ""
+
+msgctxt "settlement"
+msgid "Fees"
+msgstr "Tarifa"
+
+#, fuzzy
+msgid "File"
+msgstr ""
+
+#, fuzzy
+msgid "File CSV"
+msgstr ""
+
+#, fuzzy
+msgid "File PDF"
+msgstr ""
+
+#, fuzzy
+msgid "Files"
+msgstr ""
+
+#, fuzzy
+msgid "Filter"
+msgstr ""
+
+#, fuzzy
+msgid "Final verdict"
+msgstr ""
+
+#, fuzzy
+msgid "Fingerprint"
+msgstr ""
+
+#, fuzzy
+msgid "First name"
+msgstr ""
+
+#, fuzzy
+msgid "First reminder sent at"
+msgstr ""
+
+#, fuzzy
+msgid "First reminder sent?"
+msgstr ""
+
+#, fuzzy
+msgid "Fixed Fee"
+msgstr ""
+
+#, fuzzy
+msgid "Fixed fee"
+msgstr ""
+
+msgctxt "settlement"
+msgid "Fixed fee (%(fixed_fee_rate)s per transaction)"
+msgstr "Tarifa fija ( %(fixed_fee_rate)s por transacción)"
+
+#, fuzzy
+msgid "Flemish"
+msgstr ""
+
+msgctxt "payment_request"
+msgid "For all payments the general payment conditions apply of %(biller_company_name)s, trading under the name Biller, located at %(biller_postal_address_street_name)s %(biller_postal_address_house_number)s, %(biller_postal_address_postal_code)s %(biller_postal_address_city)s, registered with Chamber of Commerce no. %(biller_chamber_of_commerce_no)s and VAT-id: %(biller_vat_id)s"
+msgstr "Para todos los pagos se aplican las condiciones generales de pago de %(biller_company_name)s , operando bajo el nombre de Biller, ubicado en %(biller_postal_address_street_name)s %(biller_postal_address_house_number)s , %(biller_postal_address_postal_code)s %(biller_postal_address_city)s , registrado en la Cámara de Comercio no. %(biller_chamber_of_commerce_no)s e ID de IVA: %(biller_vat_id)s"
+
+msgctxt "refund"
+msgid "For all payments the general payment conditions apply of %(biller_company_name)s, trading under the name Biller, located at %(biller_postal_address_street_name)s %(biller_postal_address_house_number)s, %(biller_postal_address_postal_code)s %(biller_postal_address_city)s, registered with Chamber of Commerce no. %(biller_chamber_of_commerce_no)s and VAT-id: %(biller_vat_id)s"
+msgstr "Para todos los pagos se aplican las condiciones generales de pago de %(biller_company_name)s , operando bajo el nombre de Biller, ubicado en %(biller_postal_address_street_name)s %(biller_postal_address_house_number)s , %(biller_postal_address_postal_code)s %(biller_postal_address_city)s , registrado en la Cámara de Comercio no. %(biller_chamber_of_commerce_no)s e ID de IVA: %(biller_vat_id)s"
+
+#, fuzzy
+msgid "For full refunds, simply supply the order amount and the refund description. For partial refunds, the payload must also contain a list of `invoices` to be refunded. Regardless of refund method used, upon a successful refund, one credit note will be created per affected invoice."
+msgstr ""
+
+msgctxt "capturing"
+msgid "For more information, please refer to the invoice."
+msgstr "Para obtener más información, consulte la factura."
+
+#, fuzzy
+msgid "Fraud Decision"
+msgstr ""
+
+#, fuzzy
+msgid "Fraud Decisions"
+msgstr ""
+
+#, fuzzy
+msgid "Fraud Report"
+msgstr ""
+
+#, fuzzy
+msgid "Fraud Reports"
+msgstr ""
+
+#, fuzzy
+msgid "Fraud Score"
+msgstr ""
+
+#, fuzzy
+msgid "Free reminder sent at"
+msgstr ""
+
+#, fuzzy
+msgid "Free reminder sent?"
+msgstr ""
+
+#, fuzzy
+msgid "French"
+msgstr ""
+
+#, fuzzy
+msgid "French (Belgium)"
+msgstr ""
+
+#, fuzzy
+msgid "Generate Settlement Report"
+msgstr ""
+
+#, fuzzy
+msgid "Generated {settlement_count} settlement reports for {invoice_count} sellers."
+msgstr ""
+
+#, fuzzy
+msgid "German"
+msgstr ""
+
+#, fuzzy
+msgid "Get details of what has been captured and what remains to be captured in an order"
+msgstr ""
+
+#, fuzzy
+msgid "Get order status example `Order does not exist`"
+msgstr ""
+
+#, fuzzy
+msgid "Get order status example `rejected`"
+msgstr ""
+
+#, fuzzy
+msgid "Get the Invoice"
+msgstr ""
+
+#, fuzzy
+msgid "Get the Invoice."
+msgstr ""
+
+#, fuzzy
+msgid "Get the Order"
+msgstr ""
+
+#, fuzzy
+msgid "Get the Order status"
+msgstr ""
+
+#, fuzzy
+msgid "Get the Seller User"
+msgstr ""
+
+#, fuzzy
+msgid "Get the Seller User."
+msgstr ""
+
+#, fuzzy
+msgid "Get the full details of an order."
+msgstr ""
+
+#, fuzzy
+msgid "Get the refundable Invoices of the Order"
+msgstr ""
+
+msgctxt "hpp"
+msgid "Go back"
+msgstr "Regresa"
+
+msgctxt "hpp"
+msgid "Go back to webshop"
+msgstr "Volver a la tienda web"
+
+#, fuzzy
+msgid "HTML credit note"
+msgstr ""
+
+#, fuzzy
+msgid "HTML invoice"
+msgstr ""
+
+#, fuzzy
+msgid "Hash is verified"
+msgstr ""
+
+msgctxt "refund"
+msgid "Here is the credit note for your purchase at %(seller_brand)s which you have placed on behalf of %(buyer_company)s on %(order_date)s."
+msgstr "Esta es la notificación de reembolso de su compra en %(seller_brand)s que realizó en nombre de %(buyer_company)s el %(order_date)s ."
+
+#, fuzzy
+msgid "Home"
+msgstr ""
+
+#, fuzzy
+msgid "House number"
+msgstr ""
+
+#, fuzzy
+msgid "House number suffix"
+msgstr ""
+
+#, fuzzy
+msgid "IP Details"
+msgstr ""
+
+#, fuzzy
+msgid "IP details"
+msgstr ""
+
+msgctxt "common"
+msgid "If payment is not received within %(ultimatum_window)s days of this notification, the debt will be handed over to %(agency)s debt collection agency. An additional debt collection fee of %(fee_percentage)s of the total amount will apply, with a minimum of %(minimum_fee)s."
+msgstr "Si no se recibe el pago dentro de %(ultimatum_window)s horas posteriores a esta notificación, la deuda se transferirá a la agencia de cobro de deudas %(agency)s . Se aplicará una tarifa adicional de cobro de deudas del %(fee_percentage)s del monto total, con un mínimo de %(minimum_fee)s"
+
+msgctxt "payment_request"
+msgid "If you have questions about this payement request, the delivery or the order, please contact %(seller_brand)s on %(seller_phone)s or email %(seller_email)s."
+msgstr "Si tiene preguntas sobre esta solicitud de pago, la entrega o el pedido, comuníquese con %(seller_brand)s en %(seller_phone)s o envíe un correo electrónico a %(seller_email)s ."
+
+#, fuzzy
+msgctxt "common"
+msgid "If you have received this email even though you have already made the payment, please contact us immediately on <a target=\"_blank\" style=\"color: #47A09A;\" href=\"mailto:%(biller_customer_support_email)s\"> %(biller_customer_support_email)s </a> or call <a target=\"_blank\" style=\"color: #47A09A;\" href=\"tel:%(biller_phone_number)s\">%(biller_phone_number)s</a>."
+msgstr ""
+
+#, fuzzy
+msgid "Import CSV"
+msgstr ""
+
+msgctxt "common"
+msgid "In accordance with the agreed payment terms and conditions, an administration fee of min 5 EUR applies to any outstanding balance if the payment is not received in time."
+msgstr "De acuerdo con los términos y condiciones de pago acordados, se aplica una tarifa de administración de un mínimo de 5 EUR a cualquier saldo pendiente si el pago no se recibe a tiempo."
+
+#, fuzzy
+msgid "In order to use Biller API you need a token for authorisation.<br>Create token request returns a token, which will expire in 2 hours. "
+msgstr ""
+
+#, fuzzy
+msgid "Interest percentage"
+msgstr ""
+
+#, fuzzy
+msgid "Internal invoice ID"
+msgstr ""
+
+msgid "Invoice"
+msgstr "Factura"
+
+msgctxt "settlement"
+msgid "Invoice"
+msgstr "Factura"
+
+msgctxt "common"
+msgid "Invoice amount incl. tax"
+msgstr "Importe de la factura incl. IVA"
+
+msgctxt "payment_request"
+msgid "Invoice date"
+msgstr "Fecha de la factura"
+
+msgctxt "refund"
+msgid "Invoice date"
+msgstr "Fecha de la factura"
+
+#, fuzzy
+msgid "Invoice due sent at"
+msgstr ""
+
+#, fuzzy
+msgid "Invoice due sent?"
+msgstr ""
+
+#, fuzzy
+msgid "Invoice event"
+msgstr ""
+
+#, fuzzy
+msgid "Invoice events"
+msgstr ""
+
+msgid "Invoice payment"
+msgstr "Pago de la factura"
+
+msgid "Invoice payments"
+msgstr "pagos de facturas"
+
+#, fuzzy
+msgid "Invoice {obj.uuid} was marked settled already."
+msgstr ""
+
+#, fuzzy
+msgid "Invoice {obj.uuid} was marked unsettled already."
+msgstr ""
+
+msgid "Invoices"
+msgstr "Facturas"
+
+#, fuzzy
+msgid "Is billing address?"
+msgstr ""
+
+#, fuzzy
+msgid "Is main address?"
+msgstr ""
+
+#, fuzzy
+msgid "Is paid?"
+msgstr ""
+
+#, fuzzy
+msgid "Is reconciliation account?"
+msgstr ""
+
+#, fuzzy
+msgid "Is refunded?"
+msgstr ""
+
+#, fuzzy
+msgid "Is shipping address?"
+msgstr ""
+
+msgctxt "common"
+msgid "It appears that you have not yet paid for your order from %(seller_name)s with Biller. Since the new payment term has expired, we have added additional administration fees to the outstanding balance."
+msgstr "Parece que aún no ha pagado su pedido de %(seller_name)s con el facturador. Dado que el nuevo plazo de pago ha vencido, hemos agregado tarifas de administración adicionales al saldo pendiente."
+
+msgctxt "common"
+msgid "It appears that you have not yet paid for your order from %(seller_name)s with Biller. Since the new payment term has expired, we have added administration fees to the outstanding balance."
+msgstr "Parece que aún no ha pagado su pedido de %(seller_name)s con el facturador. Dado que el nuevo plazo de pago ha vencido, hemos agregado tarifas de administración al saldo pendiente."
+
+#, fuzzy
+msgid "JSON field"
+msgstr ""
+
+#, fuzzy
+msgid "JWT Tokens"
+msgstr ""
+
+#, fuzzy
+msgid "Last name"
+msgstr ""
+
+#, fuzzy
+msgid "Late fee condition"
+msgstr ""
+
+#, fuzzy
+msgid "Late fee conditions"
+msgstr ""
+
+#, fuzzy
+msgid "Limit Rules"
+msgstr ""
+
+#, fuzzy
+msgid "Link to external (seller) invoice"
+msgstr ""
+
+#, fuzzy
+msgid "List all the orders associated to the authenticated user."
+msgstr ""
+
+msgid "List the Invoices"
+msgstr "enumerar las facturas"
+
+msgid "List the Invoices."
+msgstr "enumerar las facturas"
+
+#, fuzzy
+msgid "List the Orders"
+msgstr ""
+
+#, fuzzy
+msgid "List the Seller Users"
+msgstr ""
+
+#, fuzzy
+msgid "List the Seller Users."
+msgstr ""
+
+#, fuzzy
+msgid "Locale identifier"
+msgstr ""
+
+#, fuzzy
+msgid "Manually matched?"
+msgstr ""
+
+#, fuzzy
+msgid "Mark invoice as dispute refund"
+msgstr ""
+
+#, fuzzy
+msgid "Mark invoice as dispute write-off"
+msgstr ""
+
+#, fuzzy
+msgid "Mark invoice as paid"
+msgstr ""
+
+#, fuzzy
+msgid "Mark invoice as settled"
+msgstr ""
+
+#, fuzzy
+msgid "Mark invoice as unpaid"
+msgstr ""
+
+#, fuzzy
+msgid "Mark invoice as unsettled"
+msgstr ""
+
+#, fuzzy
+msgid "Mark invoice as write-off"
+msgstr ""
+
+#, fuzzy
+msgid "Mark settlement as paid"
+msgstr ""
+
+#, fuzzy
+msgid "Mark settlement as sent"
+msgstr ""
+
+msgid "Master account"
+msgstr "Importe total del pedido"
+
+msgid "Master accounts"
+msgstr "Importe total del pedido"
+
+#, fuzzy
+msgid "Name"
+msgstr ""
+
+msgctxt "otp"
+msgid "Need help? Please contact %(biller_customer_support_email)s"
+msgstr "¿Necesitas ayuda? Comuníquese con %(biller_customer_support_email)s ."
+
+msgctxt "otp"
+msgid "Need help? Please contact<a target=\"_blank\" href=\"mailto:%(biller_customer_support_email)s\"> %(biller_customer_support_email)s</a>"
+msgstr "¿Necesitas ayuda? Comuníquese con <a target=\"_blank\" href=\"mailto:%(biller_customer_support_email)s\"> %(biller_customer_support_email)s </a> ."
+
+#, fuzzy
+msgid "Next link"
+msgstr ""
+
+msgctxt "hpp"
+msgid "No code? Please check your spam folder."
+msgstr "¿Sin código? Por favor revise su carpeta de correo no deseado."
+
+#, fuzzy
+msgid "No eligible records to mark as accepted"
+msgstr ""
+
+#, fuzzy
+msgid "No eligible records to mark as paid"
+msgstr ""
+
+#, fuzzy
+msgid "No eligible records to set on-hold"
+msgstr ""
+
+#, fuzzy
+msgid "No eligible records to unset on-hold"
+msgstr ""
+
+msgctxt "hpp"
+msgid "No, continue"
+msgstr "No, continuar"
+
+#, fuzzy
+msgid "Notes"
+msgstr ""
+
+#, fuzzy
+msgid "Number of invoices"
+msgstr ""
+
+#, fuzzy
+msgid "OTP has been verified to the buyer"
+msgstr ""
+
+#, fuzzy
+msgid "Object type"
+msgstr ""
+
+#, fuzzy
+msgid "On hold since"
+msgstr ""
+
+#, fuzzy
+msgid "On hold?"
+msgstr ""
+
+msgid "Order"
+msgstr "Ordenar"
+
+msgctxt "settlement"
+msgid "Order ID"
+msgstr "Solicitar ID"
+
+#, fuzzy
+msgid "Order Request"
+msgstr ""
+
+#, fuzzy
+msgid "Order Requests"
+msgstr ""
+
+#, fuzzy
+msgid "Order captured status"
+msgstr ""
+
+#, fuzzy
+msgid "Order created"
+msgstr ""
+
+#, fuzzy
+msgid "Order creation error"
+msgstr ""
+
+msgctxt "payment_request"
+msgid "Order date"
+msgstr "Fecha de orden"
+
+msgctxt "hpp"
+msgid "Order details"
+msgstr "Detalles del pedido"
+
+#, fuzzy
+msgid "Order event"
+msgstr ""
+
+#, fuzzy
+msgid "Order events"
+msgstr ""
+
+#, fuzzy
+msgid "Order found"
+msgstr ""
+
+#, fuzzy
+msgid "Order line"
+msgstr ""
+
+#, fuzzy
+msgid "Order lines"
+msgstr ""
+
+#, fuzzy
+msgid "Order lines (JSON)"
+msgstr ""
+
+msgctxt "payment_request"
+msgid "Order number"
+msgstr "Número de orden"
+
+msgid "Order refund"
+msgstr "Reembolso del pedido"
+
+#, fuzzy
+msgid "Order refunds"
+msgstr ""
+
+msgid "Order request"
+msgstr "Solicitud de orden"
+
+#, fuzzy
+msgid "Order request label"
+msgstr ""
+
+#, fuzzy
+msgid "Order requests"
+msgstr ""
+
+msgctxt "hpp"
+msgid "Order summary"
+msgstr "Resumen del pedido"
+
+#, fuzzy
+msgid "Order total amount (cents)."
+msgstr ""
+
+msgid "Orders"
+msgstr "Pedidos"
+
+msgctxt "common"
+msgid "Outstanding balance"
+msgstr "Saldo pendiente"
+
+msgid "PDF credit note"
+msgstr "Notificación de reembolso en PDF"
+
+#, fuzzy
+msgid "PDF invoice"
+msgstr ""
+
+#, fuzzy
+msgid "Paid at"
+msgstr ""
+
+msgid "Payment Details"
+msgstr "Detalles del pago"
+
+msgid "Payment Method"
+msgstr "Detalles del pago"
+
+msgid "Payment Reference"
+msgstr "Referencia de pago"
+
+msgctxt "settlement"
+msgid "Payment Reference"
+msgstr "Referencia de pago"
+
+msgid "Payment Status"
+msgstr "Detalles del pago"
+
+msgctxt "payment_request"
+msgid "Payment details"
+msgstr "Detalles del pago"
+
+#, fuzzy
+msgid "Payment link duration in seconds."
+msgstr ""
+
+msgid "Payment reference"
+msgstr "Referencia de pago"
+
+msgctxt "common"
+msgid "Payment reference"
+msgstr "Referencia de pago"
+
+msgctxt "payment_request"
+msgid "Payment reference"
+msgstr "Referencia de pago"
+
+msgid "Payment reminder for your purchase from %(seller_brand)s"
+msgstr "Recordatorio de pago de su compra de %(seller_brand)s con Biller"
+
+msgid "Payment request for your purchase from %(seller_brand)s with Biller"
+msgstr "Solicitud de pago de su compra de %(seller_brand)s con Biller"
+
+#, fuzzy
+msgid "Payment status"
+msgstr ""
+
+msgctxt "common"
+msgid "Payments may take up to 3 days to be processed. If you have already made a payment, please disregard this email."
+msgstr "Los pagos pueden tardar hasta 3 días en ser procesados. Si ya ha realizado un pago, ignore este correo electrónico."
+
+msgctxt "settlement"
+msgid "Payout"
+msgstr "Pagar"
+
+msgctxt "settlement"
+msgid "Payout Date:"
+msgstr "Fecha de pago:"
+
+#, fuzzy
+msgid "Payout schedule"
+msgstr ""
+
+#, fuzzy
+msgid "Percentage fee"
+msgstr ""
+
+#, fuzzy
+msgid "Phone Details"
+msgstr ""
+
+#, fuzzy
+msgid "Phone details"
+msgstr ""
+
+#, fuzzy
+msgid "Phone number"
+msgstr ""
+
+msgctxt "common"
+msgid "Please be aware that any further delay in payment after %(new_due_date)s will result in an extra administration fee of min 5 EUR added to your outstanding balance."
+msgstr "Tenga en cuenta que cualquier retraso adicional en el pago después %(new_due_date)s generará una tarifa administrativa adicional de un mínimo de 5 EUR que se agregará a su saldo pendiente."
+
+msgctxt "common"
+msgid "Please complete the payment for this purchase before %(new_due_date)s."
+msgstr "Complete el pago de esta compra antes %(new_due_date)s ."
+
+msgctxt "common"
+msgid "Please contact %(contact_name)s via %(contact_email)s or call %(contact_telephone)s so they can be of further assistance."
+msgstr "Comuníquese con %(contact_name)s a través de %(contact_email)s o llame a %(contact_telephone)s para que puedan brindarle más ayuda."
+
+msgctxt "common"
+msgid "Please contact %(seller_name)s via <a target=\"_blank\" style=\"color: #47A09A;\" href=\"mailto:%(seller_email)s\">%(seller_email)s</a> or call <a target=\"_blank\" style=\"color: #47A09A;\" href=\"tel:%(seller_telephone)s\">%(seller_telephone)s</a> so they can be of further assistance."
+msgstr "Comuníquese con %(seller_name)s a través de <a target=\"_blank\" style=\"color: #47A09A;\" href=\"mailto:%(seller_email)s\"> %(seller_email)s </a> o llame a <a target=\"_blank\" style=\"color: #47A09A;\" href=\"tel:%(seller_telephone)s\"> %(seller_telephone)s </a> para que puedan brindarle más ayuda."
+
+#, fuzzy
+msgid "Please correct the error below."
+msgstr ""
+
+#, fuzzy
+msgid "Please correct the errors below."
+msgstr ""
+
+msgctxt "refund"
+msgid "Please find the updated payment request in this email."
+msgstr "Encuentre la solicitud de pago actualizada en este correo electrónico."
+
+msgctxt "common"
+msgid "Please note that if we do not receive your payment before %(new_due_date)s, the original invoice will be handed over to a debt collection agency."
+msgstr "Tenga en cuenta que si no recibimos su pago antes %(new_due_date)s , la factura original se entregará a una agencia de cobro de deudas."
+
+msgid "Please note that this is the last reminder to pay for your purchase at %(seller_name)s with order number %(order_uid)s."
+msgstr "Tenga en cuenta que este es el último recordatorio para pagar su compra en %(seller_name)s con el número de pedido %(order_uid)s ."
+
+msgctxt "capturing"
+msgid "Please refer to the attachment for your complete order summary and invoice."
+msgstr "Consulte el archivo adjunto para ver el resumen completo de su pedido."
+
+msgctxt "capturing"
+msgid "Please refer to the attachment for your complete order summary."
+msgstr "Consulte el archivo adjunto para ver el resumen completo de su pedido."
+
+msgctxt "common"
+msgid "Please use the description field for the payment reference."
+msgstr "Utilice el campo de descripción para la referencia de pago."
+
+msgctxt "otp"
+msgid "Please use this verification code for your purchase with %(seller)s"
+msgstr "Utilice este código de verificación para su compra con %(seller)s ."
+
+#, fuzzy
+msgid "Positive - seller owes us, negative - we owe seller"
+msgstr ""
+
+msgctxt "common"
+msgid "Postal address"
+msgstr "direccion postal"
+
+#, fuzzy
+msgid "Postal/Zip-code"
+msgstr ""
+
+#, fuzzy
+msgid "Previous link"
+msgstr ""
+
+msgctxt "payment_request"
+msgid "Price"
+msgstr "Precio"
+
+#, fuzzy
+msgctxt "hpp"
+msgid "Price (ex. VAT)"
+msgstr ""
+
+#, fuzzy
+msgid "Product price excl. tax"
+msgstr ""
+
+#, fuzzy
+msgid "Product price incl. tax"
+msgstr ""
+
+#, fuzzy
+msgid "Product tax rate percentage"
+msgstr ""
+
+msgctxt "hpp"
+msgid "Purchase"
+msgstr "Compra"
+
+msgid "Purchase is approved!"
+msgstr "¡La compra está aprobada!"
+
+msgid "Purchase refund from %(seller_brand)s"
+msgstr "Reembolso de compra de %(seller_brand)s"
+
+msgctxt "payment_request"
+msgid "Qty"
+msgstr "Cantidad"
+
+msgctxt "refund"
+msgid "Qty"
+msgstr "Cantidad"
+
+msgctxt "hpp"
+msgid "Qty"
+msgstr "Cantidad"
+
+#, fuzzy
+msgid "Quantity"
+msgstr ""
+
+msgctxt "common"
+msgid "Questions about payments and reminders?"
+msgstr "¿Preguntas sobre pagos y recordatorios?"
+
+msgctxt "common"
+msgid "Questions about the purchase, delivery or returns?"
+msgstr "¿Preguntas sobre pedidos, facturas, notas de crédito, entregas o devoluciones?:"
+
+msgctxt "refund"
+msgid "Reason"
+msgstr "Razón"
+
+#, fuzzy
+msgid "Recipient e-mail"
+msgstr ""
+
+#, fuzzy
+msgid "Refresh token"
+msgstr ""
+
+#, fuzzy
+msgid "Refund objects (credit notes) created."
+msgstr ""
+
+#, fuzzy
+msgid "Refund the Order"
+msgstr ""
+
+#, fuzzy
+msgid "Refundable Invoice lines"
+msgstr ""
+
+#, fuzzy
+msgid "Refundable Invoices"
+msgstr ""
+
+#, fuzzy
+msgid "Refunded at"
+msgstr ""
+
+msgctxt "payment_request"
+msgid "Reg no."
+msgstr "Registro no."
+
+msgctxt "refund"
+msgid "Reg no."
+msgstr "Registro no."
+
+msgctxt "otp"
+msgid "Reg no."
+msgstr "Registro no."
+
+msgctxt "common"
+msgid "Reg no."
+msgstr "Registro no."
+
+#, fuzzy
+msgid "Regardless of the refund method used, the 200 response (and the credit notes created) will have the same structure. Each entry in the `refunds` list represents a credit note."
+msgstr ""
+
+#, fuzzy
+msgid "Region"
+msgstr ""
+
+msgctxt "settlement"
+msgid "Release"
+msgstr "Liberar"
+
+#, fuzzy
+msgid "Release Amount"
+msgstr ""
+
+msgctxt "settlement"
+msgid "Releases (amount relased from holded status. included to sale amount)"
+msgstr "Liberaciones (monto liberado del estado retenido incluido en el monto de la venta)"
+
+msgctxt "settlement"
+msgid "Repay"
+msgstr "Pagar"
+
+#, fuzzy
+msgid "Repay Amount"
+msgstr ""
+
+msgctxt "settlement"
+msgid "Repays (failed payments from previous settlements. included to sale amount)"
+msgstr "Reembolsos (pagos fallidos de liquidaciones anteriores incluidos en el monto de la venta)"
+
+#, fuzzy
+msgid "Report data"
+msgstr ""
+
+#, fuzzy
+msgid "Representative"
+msgstr ""
+
+#, fuzzy
+msgid "Representative email"
+msgstr ""
+
+#, fuzzy
+msgid "Representatives"
+msgstr ""
+
+#, fuzzy
+msgid "Request META"
+msgstr ""
+
+#, fuzzy
+msgid "Request payload example"
+msgstr ""
+
+msgctxt "hpp"
+msgid "Resend code"
+msgstr "Reenviar codigo"
+
+#, fuzzy
+msgid "Response example"
+msgstr ""
+
+#, fuzzy
+msgid "Retrieve the status of an Order."
+msgstr ""
+
+msgctxt "settlement"
+msgid "Return"
+msgstr "Devolver"
+
+#, fuzzy
+msgid "Return Amount"
+msgstr ""
+
+msgctxt "settlement"
+msgid "Returns (goods/services returned by customer)"
+msgstr "Devoluciones (bienes/servicios devueltos por el cliente)"
+
+#, fuzzy
+msgid "Risk email"
+msgstr ""
+
+#, fuzzy
+msgid "SEON version"
+msgstr ""
+
+#, fuzzy
+msgid "SEON_uid"
+msgstr ""
+
+#, fuzzy
+msgid "Sale Amount"
+msgstr ""
+
+msgctxt "settlement"
+msgid "Sale amount"
+msgstr "Importe total del pedido"
+
+msgctxt "settlement"
+msgid "Sales (Captured Orders)"
+msgstr "Ventas (Pedidos Capturados)"
+
+#, fuzzy
+msgid "Score Rules"
+msgstr ""
+
+#, fuzzy
+msgid "Second reminder sent at"
+msgstr ""
+
+#, fuzzy
+msgid "Second reminder sent?"
+msgstr ""
+
+#, fuzzy
+msgid "Secret key"
+msgstr ""
+
+#, fuzzy
+msgid "Secrets"
+msgstr ""
+
+msgctxt "hpp"
+msgid "Select buying company"
+msgstr "Seleccionar empresa"
+
+#, fuzzy
+msgid "Seller"
+msgstr ""
+
+msgctxt "settlement"
+msgid "Seller ID"
+msgstr "Identificación del vendedor"
+
+#, fuzzy
+msgid "Seller Users"
+msgstr ""
+
+#, fuzzy
+msgid "Seller company name"
+msgstr ""
+
+msgctxt "refund"
+msgid "Seller credit note:"
+msgstr "Nota de crédito del vendedor"
+
+#, fuzzy
+msgid "Seller does not accept this currency"
+msgstr ""
+
+msgctxt "payment_request"
+msgid "Seller invoice number"
+msgstr "número de factura del vendedor"
+
+#, fuzzy
+msgid "Seller profile"
+msgstr ""
+
+#, fuzzy
+msgid "Seller profile does not exist"
+msgstr ""
+
+#, fuzzy
+msgid "Seller profiles"
+msgstr ""
+
+#, fuzzy
+msgid "Seller user"
+msgstr ""
+
+#, fuzzy
+msgid "Seller users"
+msgstr ""
+
+msgctxt "payment_request"
+msgid "Seller's invoice number"
+msgstr "número de factura del vendedor"
+
+#, fuzzy
+msgid "Sellers"
+msgstr ""
+
+#, fuzzy
+msgid "Sendgrid event"
+msgstr ""
+
+#, fuzzy
+msgid "Sendgrid events"
+msgstr ""
+
+#, fuzzy
+msgid "Set invoice on-hold"
+msgstr ""
+
+#, fuzzy
+msgid "Set or update external (seller) invoice ID or invoice URL"
+msgstr ""
+
+#, fuzzy
+msgid "Set the external (seller) invoice ID"
+msgstr ""
+
+#, fuzzy
+msgid "Settled?"
+msgstr ""
+
+#, fuzzy
+msgid "Settlement Amount"
+msgstr ""
+
+msgid "Settlement Report"
+msgstr "Informe de liquidación"
+
+msgctxt "settlement"
+msgid "Settlement Report"
+msgstr "Informe de liquidación"
+
+#, fuzzy
+msgid "Settlement Status"
+msgstr ""
+
+#, fuzzy
+msgid "Settlement/finance department email"
+msgstr ""
+
+msgid "Shipping address"
+msgstr "Dirección de Envío"
+
+msgctxt "hpp"
+msgid "Shipping address"
+msgstr "Dirección de Envío"
+
+#, fuzzy
+msgid "Shipping address city"
+msgstr ""
+
+#, fuzzy
+msgid "Shipping address country"
+msgstr ""
+
+#, fuzzy
+msgid "Shipping address house number"
+msgstr ""
+
+#, fuzzy
+msgid "Shipping address house number suffix"
+msgstr ""
+
+#, fuzzy
+msgid "Shipping address post/Zip-code"
+msgstr ""
+
+#, fuzzy
+msgid "Shipping address region"
+msgstr ""
+
+#, fuzzy
+msgid "Shipping address street"
+msgstr ""
+
+#, fuzzy
+msgid "Shipping address street address 1"
+msgstr ""
+
+#, fuzzy
+msgid "Shipping address street address 2"
+msgstr ""
+
+msgctxt "hpp"
+msgid "Signal a problem"
+msgstr "Señalar un problema"
+
+msgctxt "payment_request"
+msgid "Simultaneously, %(seller_company)s has transferred the ownership of that claim to %(biller_company_name)s (ceded)."
+msgstr "Simultáneamente, %(seller_company)s ha transferido la propiedad de ese reclamo a %(biller_company_name)s (cedido)."
+
+msgctxt "capturing"
+msgid "Simultaneously, %(seller_company)s has transferred the ownership of that claim to %(biller_company_name)s (ceded)."
+msgstr "Simultáneamente, %(seller_company)s ha transferido la propiedad de ese reclamo a %(biller_company_name)s (cedido)."
+
+msgctxt "refund"
+msgid "Simultaneously, %(seller_company)s has transferred the ownership of that claim to %(biller_company_name)s (ceded)."
+msgstr "Simultáneamente, %(seller_company)s ha transferido la propiedad de ese reclamo a %(biller_company_name)s (cedido)."
+
+#, fuzzy
+msgid "Status"
+msgstr ""
+
+#, fuzzy
+msgid "Street"
+msgstr ""
+
+#, fuzzy
+msgid "Street Address 1"
+msgstr ""
+
+#, fuzzy
+msgid "Street Address 2"
+msgstr ""
+
+#, fuzzy
+msgid "Street name, house number and house number suffix."
+msgstr ""
+
+msgctxt "settlement"
+msgid "Subtotal"
+msgstr "Total parcial"
+
+msgctxt "hpp"
+msgid "Subtotal"
+msgstr "Total parcial"
+
+#, fuzzy
+msgid "Success message."
+msgstr ""
+
+#, fuzzy
+msgid "Successfully generated settlement <a href='{reverse('admin:invoice_settlement_change', args=[settlement.pk])}' target='_blank'>{settlement.payment_reference}</a>."
+msgstr ""
+
+#, fuzzy
+msgid "Successfully generated settlement reports."
+msgstr ""
+
+#, fuzzy
+msgid "Successfully marked invoice {obj.uuid} as dispute refund."
+msgstr ""
+
+#, fuzzy
+msgid "Successfully marked invoice {obj.uuid} as dispute write-off."
+msgstr ""
+
+#, fuzzy
+msgid "Successfully marked invoice {obj.uuid} as paid."
+msgstr ""
+
+#, fuzzy
+msgid "Successfully marked invoice {obj.uuid} as settled."
+msgstr ""
+
+#, fuzzy
+msgid "Successfully marked invoice {obj.uuid} as unpaid."
+msgstr ""
+
+#, fuzzy
+msgid "Successfully marked invoice {obj.uuid} as unsettled."
+msgstr ""
+
+#, fuzzy
+msgid "Successfully marked invoice {obj.uuid} as write-off. "
+msgstr ""
+
+#, fuzzy
+msgid "Successfully marked settlement {settlement.id} as paid."
+msgstr ""
+
+#, fuzzy
+msgid "Successfully marked settlement {settlement.id} as sent."
+msgstr ""
+
+#, fuzzy
+msgid "Successfully marked {marked_invoices} invoices as settled."
+msgstr ""
+
+#, fuzzy
+msgid "Successfully marked {marked_refunds} refunds as settled."
+msgstr ""
+
+#, fuzzy
+msgid "Successfully set invoice {obj.uuid} on-hold."
+msgstr ""
+
+#, fuzzy
+msgid "Successfully unset invoice {obj.uuid} on-hold."
+msgstr ""
+
+#, fuzzy
+msgid "Supported currencies"
+msgstr ""
+
+#, fuzzy
+msgid "Supported currency"
+msgstr ""
+
+#, fuzzy
+msgid "Tax Amount"
+msgstr ""
+
+#, fuzzy
+msgid "Tax amount (cents) in discount."
+msgstr ""
+
+msgctxt "hpp"
+msgid "Terms & Privacy"
+msgstr "Términos y Privacidad"
+
+msgctxt "capturing"
+msgid "Thank you for your purchase from %(seller_brand)s which you have placed on behalf of %(buyer_company)s!"
+msgstr "¡Gracias por su compra de %(seller_brand)s que ha realizado en nombre de %(buyer_company)s !"
+
+msgctxt "payment_request"
+msgid "Thank you for your purchase from %(seller_brand)s which you have placed on behalf of %(buyer_company)s."
+msgstr "Gracias por su compra de %(seller_brand)s que realizó en nombre de %(buyer_company)s ."
+
+msgctxt "capturing"
+msgid "Thank you for your purchase from %(seller_url)s which you have placed on behalf of %(buyer_company)s!"
+msgstr "¡Gracias por su compra de %(seller_url)s que ha realizado en nombre de %(buyer_company)s !"
+
+msgctxt "capturing"
+msgid "Thank you for your purchase from <a target=\"_blank\" style=\"color: #7d55b9;\" href=\"%(seller_url)s\">%(seller_url)s</a> which you have placed on behalf of %(buyer_company)s!"
+msgstr "Gracias por su compra de <a target=\"_blank\" style=\"color: #7d55b9;\" href=\"%(seller_url)s\"> %(seller_url)s </a> que ha colocado en nombre de %(buyer_company)s !"
+
+msgctxt "common"
+msgid "The <a target=\"_blank\" style=\"color: #47A09A;\" href=\"%(biller_terms_and_conditions_url)s\">general payment conditions</a> of %(biller_company_name)s apply to all payments."
+msgstr "El <a target=\"_blank\" style=\"color: #47A09A;\" href=\"%(biller_terms_and_conditions_url)s\"> las condiciones generales de pago </a> de %(biller_company_name)s aplican a todos los pagos."
+
+msgctxt "common"
+msgid "The general payment conditions of %(biller_company_name)s (%(biller_terms_and_conditions_url)s) apply to all payments."
+msgstr "Las condiciones generales de pago de %(biller_company_name)s ( %(biller_terms_and_conditions_url)s ) se aplican a todos los pagos."
+
+msgctxt "refund"
+msgid "The original payment request has been sent to you in an earlier email."
+msgstr "La solicitud de pago original se le envió en un correo electrónico anterior."
+
+#, fuzzy
+msgid "The phone number '%(phone_number)s' is not valid"
+msgstr ""
+
+#, fuzzy
+msgid "The postcode '%(postal_code)s' is not valid for %(country)s"
+msgstr ""
+
+msgctxt "hpp"
+msgid "The purchase order you requested does not exist."
+msgstr "La orden de compra que solicitaste no existe."
+
+msgctxt "hpp"
+msgid "The purchase order you requested has timed out."
+msgstr "Se agotó el tiempo de espera de la orden de compra que solicitó."
+
+msgid "The registration number '%(registration_number)s' is not valid for %(country)s"
+msgstr "El número de registro ' %(registration_number)s ' no es válido para %(country)s"
+
+#, fuzzy
+msgid "The response returns a list of Invoices where a `refundable_quantity` and a `total_refundable_amount` is shown for each invoice line.<br>The `refundable_quantity` is calculated as `quantity` minus the _already refunded quantity_.<br>The `total_refundable_amount` fields are calculated per line based on the `refundable_quantity` field and the `product_price` fields, being `product_price` the price per unit"
+msgstr ""
+
+#, fuzzy
+msgid "There is already a settlement in progress. Finish it first. <a href='{reverse('admin:invoice_settlement_change', args=[settlement.pk])}' target='_blank'>{settlement.payment_reference}</a>."
+msgstr ""
+
+msgctxt "otp"
+msgid "This code will expire in 15 minutes."
+msgstr "Este código caducará en 15 minutos."
+
+msgctxt "refund"
+msgid "This credit note relates to order %(order_number)s."
+msgstr "Esta notificación de reembolso se relaciona con el pedido %(order_number)s ."
+
+#, fuzzy
+msgid "This fee will be taken per each translaction. Value stored in currency units, not in cents (i.e. euros)"
+msgstr ""
+
+msgctxt "refund"
+msgid "This is a notification that your purchase with order number %(order_number)s from %(seller_brand)s with Biller has been fully refunded"
+msgstr "Esta es una notificación de que su compra con el número de pedido %(order_number)s de %(seller_brand)s con Biller ha sido reembolsada por completo."
+
+msgctxt "refund"
+msgid "This is a notification that your purchase with order number %(order_number)s from %(seller_brand)s with Biller has been partially refunded"
+msgstr "Esta es una notificación de que su compra con el número de pedido %(order_number)s de %(seller_brand)s con Biller ha sido reembolsada parcialmente."
+
+#, fuzzy
+msgid "This is the `capture status` of Order."
+msgstr ""
+
+#, fuzzy
+msgid "This is the `status` of the Order.\n Order statuses: \n"
+msgstr ""
+
+#, fuzzy
+msgid "Time details"
+msgstr ""
+
+msgctxt "common"
+msgid "To date we have not received payment for you purchase at %(seller_name)s with Biller."
+msgstr "Hasta la fecha, no hemos recibido el pago de su compra en %(seller_name)s con Biller."
+
+msgctxt "hpp"
+msgid "To make sure it is really you, we’ve sent a code to <span class=\"otp_email_address\">%(email)s</span>"
+msgstr "Para asegurarnos de que eres realmente tú, hemos enviado un código a <span class=\"otp_email_address\"> %(email)s </span>"
+
+msgid "To make sure it is really you, we’ve sent a code to <span class=\"otp_email_address\">%(email)s</span>"
+msgstr "Para asegurarnos de que eres realmente tú, hemos enviado un código a <span class=\"otp_email_address\"> %(email)s </span>"
+
+msgctxt "payment_request"
+msgid "Total"
+msgstr "Total"
+
+msgctxt "refund"
+msgid "Total"
+msgstr "Total"
+
+msgctxt "hpp"
+msgid "Total"
+msgstr "Total"
+
+msgctxt "settlement"
+msgid "Total Costs and Fees"
+msgstr "Costos y tarifas totales"
+
+#, fuzzy
+msgid "Total amount due in currency units"
+msgstr ""
+
+#, fuzzy
+msgid "Total amount in currency units"
+msgstr ""
+
+msgctxt "common"
+msgid "Total amount to pay"
+msgstr "Importe total a pagar"
+
+msgctxt "payment_request"
+msgid "Total excl. VAT"
+msgstr "Total excl. IVA"
+
+msgctxt "refund"
+msgid "Total excl. VAT"
+msgstr "Total excl. IVA"
+
+msgctxt "payment_request"
+msgid "Total incl. VAT"
+msgstr "total incl. IVA"
+
+msgctxt "refund"
+msgid "Total incl. VAT"
+msgstr "total incl. IVA"
+
+msgid "Total invoice amount"
+msgstr "Importe total del pedido"
+
+#, fuzzy
+msgid "Total order amount in currency units"
+msgstr ""
+
+#, fuzzy
+msgid "Transaction Variables"
+msgstr ""
+
+#, fuzzy
+msgid "Transaction state at creation"
+msgstr ""
+
+#, fuzzy
+msgid "URLs"
+msgstr ""
+
+#, fuzzy
+msgid "UUID"
+msgstr ""
+
+#, fuzzy
+msgid "UUID of referring object we send webhook"
+msgstr ""
+
+#, fuzzy
+msgid "UUID of the Invoice (alias of the `uuid`)."
+msgstr ""
+
+#, fuzzy
+msgid "UUID of the Invoice."
+msgstr ""
+
+#, fuzzy
+msgid "UUID of the Order."
+msgstr ""
+
+#, fuzzy
+msgid "UUID of the invoice refund relates to"
+msgstr ""
+
+#, fuzzy
+msgid "Unable to find your company"
+msgstr ""
+
+#, fuzzy
+msgid "Unfortunately you cannot pay with Biller in your country yet"
+msgstr ""
+
+#, fuzzy
+msgid "Unfortunately, we are unable to approve this purchase."
+msgstr ""
+
+#, fuzzy
+msgid "Unique invoice ref (for payments)"
+msgstr ""
+
+#, fuzzy
+msgid "Unset invoice on-hold"
+msgstr ""
+
+msgid "Update the Invoice"
+msgstr "enumerar las facturas"
+
+#, fuzzy
+msgid "Updated At"
+msgstr ""
+
+#, fuzzy
+msgid "Updated at"
+msgstr ""
+
+#, fuzzy
+msgid "Upload CSV"
+msgstr ""
+
+#, fuzzy
+msgid "Url we sent webhook to"
+msgstr ""
+
+#, fuzzy
+msgid "User"
+msgstr ""
+
+msgctxt "payment_request"
+msgid "VAT"
+msgstr "IVA"
+
+msgctxt "settlement"
+msgid "VAT"
+msgstr "IVA"
+
+msgctxt "refund"
+msgid "VAT"
+msgstr "IVA"
+
+msgctxt "hpp"
+msgid "VAT"
+msgstr "IVA"
+
+msgctxt "settlement"
+msgid "VAT on Fees"
+msgstr "IVA sobre Tasas"
+
+msgctxt "payment_request"
+msgid "VAT-id"
+msgstr "ID de IVA"
+
+msgctxt "refund"
+msgid "VAT-id"
+msgstr "ID de IVA"
+
+msgctxt "common"
+msgid "VAT-id"
+msgstr "ID de IVA"
+
+#, fuzzy
+msgid "Valid registration number is required for %(country)s"
+msgstr ""
+
+#, fuzzy
+msgid "Value %(value)r is not a valid choice."
+msgstr ""
+
+#, fuzzy
+msgid "Variable Fee"
+msgstr ""
+
+#, fuzzy
+msgid "Variables"
+msgstr ""
+
+msgctxt "hpp"
+msgid "Verify your email"
+msgstr "Verifique su correo electrónico"
+
+#, fuzzy
+msgid "We use [JWT tokens](https://jwt.io/) for authentication. Token expires in 2 hours, refresh token expires in 1 day."
+msgstr ""
+
+#, fuzzy
+msgid "Webshop"
+msgstr ""
+
+#, fuzzy
+msgid "Webshop ID"
+msgstr ""
+
+#, fuzzy
+msgid "Webshop ID configured by Biller"
+msgstr ""
+
+#, fuzzy
+msgid "Webshop cancel URL"
+msgstr ""
+
+#, fuzzy
+msgid "Webshop error URL"
+msgstr ""
+
+#, fuzzy
+msgid "Webshop not known"
+msgstr ""
+
+#, fuzzy
+msgid "Webshop pending URL"
+msgstr ""
+
+#, fuzzy
+msgid "Webshop root URL"
+msgstr ""
+
+#, fuzzy
+msgid "Webshop success URL"
+msgstr ""
+
+#, fuzzy
+msgid "Webshop webhook URL"
+msgstr ""
+
+#, fuzzy
+msgid "Website URL"
+msgstr ""
+
+msgctxt "hpp"
+msgid "What is Biller?"
+msgstr "¿Qué es Biller?"
+
+#, fuzzy
+msgid "With VAT"
+msgstr ""
+
+msgctxt "hpp"
+msgid "You need JavaScript enabled on your browser to be able to use Biller!"
+msgstr "¡Necesita habilitar JavaScript en su navegador para poder usar Biller!"
+
+msgctxt "payment_request"
+msgid "You should receive an invoice directly from the seller, however, the payment can therefore only be made to %(biller_company_name)s"
+msgstr "Debe recibir una factura directamente del vendedor; sin embargo, el pago solo puede realizarse a %(biller_company_name)s ."
+
+msgctxt "refund"
+msgid "You should receive an invoice directly from the seller, however, the payment can therefore only be made to %(biller_company_name)s"
+msgstr "Debe recibir una factura directamente del vendedor; sin embargo, el pago solo puede realizarse a %(biller_company_name)s ."
+
+msgctxt "capturing"
+msgid "You should receive an invoice directly from the seller, however, the payment can therefore only be made to %(biller_company_name)s."
+msgstr "Debe recibir una factura directamente del vendedor; sin embargo, el pago solo puede realizarse a %(biller_company_name)s ."
+
+msgctxt "refund"
+msgid "details"
+msgstr "detalles"
+
+#, fuzzy
+msgid "street address 2 includes additional address info like apartment number, suite, etc"
+msgstr ""
+
+#, fuzzy
+msgid "street address includes street name, house number, house suffix, etc"
+msgstr ""
+
+#, fuzzy
+msgid "the webshop"
+msgstr ""
+
+#, fuzzy
+msgid "{num_records} records have been marked as accepted"
+msgstr ""
+
+#, fuzzy
+msgid "{num_records} records have been marked as paid"
+msgstr ""
+
+#, fuzzy
+msgid "{num_records} records have been marked as unpaid"
+msgstr ""
+
+#, fuzzy
+msgid "{num_records} records have been set on-hold"
+msgstr ""
+
+#, fuzzy
+msgid "{num_records} records have been unset on-hold"
+msgstr ""
